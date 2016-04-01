@@ -323,44 +323,55 @@
 </node>
 </node>
 </node>
-<node CREATED="1459321658581" FOLDED="true" ID="ID_1110448834" MODIFIED="1459516674412" TEXT="Session 6">
+<node CREATED="1459321658581" FOLDED="true" ID="ID_1110448834" MODIFIED="1459530148448" TEXT="Session 6">
 <icon BUILTIN="full-7"/>
-<node CREATED="1459321688465" ID="ID_322408881" MODIFIED="1459435621998" TEXT="mark&apos;s contrib hard to ID">
+<node CREATED="1459321688465" ID="ID_322408881" MODIFIED="1459527298445" TEXT="mark&apos;s contrib hard to ID">
 <icon BUILTIN="full-7"/>
-<node CREATED="1459321712966" ID="ID_1857420877" MODIFIED="1459431769409" TEXT="c.f. what we read into it">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459321712966" ID="ID_1857420877" MODIFIED="1459527298445" TEXT="c.f. what we read into it">
 <icon BUILTIN="full-7"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
 <node CREATED="1459321722531" ID="ID_1398864249" MODIFIED="1459454751759" TEXT="ways that the truth is presented">
 <icon BUILTIN="full-7"/>
-<node CREATED="1459321745012" ID="ID_855163345" MODIFIED="1459431769409" TEXT="&quot;good news&quot; of J">
+<node CREATED="1459321745012" ID="ID_855163345" MODIFIED="1459527311892" TEXT="&quot;good news&quot; of J">
 <icon BUILTIN="full-7"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459321762329" ID="ID_233823486" MODIFIED="1459431769409" TEXT="hard to confront &amp; embrace">
+<node CREATED="1459321762329" FOLDED="true" ID="ID_233823486" MODIFIED="1459526421214" TEXT="hard to confront &amp; embrace">
 <icon BUILTIN="full-7"/>
-<node CREATED="1459321777710" ID="ID_126869175" MODIFIED="1459435859381" TEXT="radical challenge">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459321777710" ID="ID_126869175" MODIFIED="1459526418327" TEXT="radical challenge">
 <icon BUILTIN="full-7"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459321783403" ID="ID_1223497470" MODIFIED="1459431769409" TEXT="must abandon old life">
+<node CREATED="1459321783403" ID="ID_1223497470" MODIFIED="1459526418327" TEXT="must abandon old life">
 <icon BUILTIN="full-7"/>
-<node CREATED="1459321814949" ID="ID_854389774" MODIFIED="1459431769409" TEXT="to do will of God">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459321814949" ID="ID_854389774" MODIFIED="1459526418326" TEXT="to do will of God">
 <icon BUILTIN="full-7"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459321819637" ID="ID_56602851" MODIFIED="1459431769409" TEXT="to join community">
+<node CREATED="1459321819637" ID="ID_56602851" MODIFIED="1459526418326" TEXT="to join community">
 <icon BUILTIN="full-7"/>
-</node>
-</node>
-<node CREATED="1459321835242" ID="ID_203582844" MODIFIED="1459431769409" TEXT="lose life to gain it &amp; follow J. to cross">
-<icon BUILTIN="full-7"/>
-</node>
-<node CREATED="1459321870367" ID="ID_570843187" MODIFIED="1459435874863" TEXT="nobody in the story seems able to respond to">
-<icon BUILTIN="full-7"/>
-<node CREATED="1459321886304" ID="ID_720453362" MODIFIED="1459431769409" TEXT="despite evidence of rewards">
-<icon BUILTIN="full-7"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
+<node CREATED="1459321835242" ID="ID_203582844" MODIFIED="1459526418326" TEXT="lose life to gain it &amp; follow J. to cross">
+<icon BUILTIN="full-7"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459321918935" ID="ID_1322734369" MODIFIED="1459435997796" TEXT="focused on figure of J">
+<node CREATED="1459321870367" ID="ID_570843187" MODIFIED="1459526418325" TEXT="nobody in the story seems able to respond to">
+<icon BUILTIN="full-7"/>
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459321886304" ID="ID_720453362" MODIFIED="1459526418324" TEXT="despite evidence of rewards">
+<icon BUILTIN="full-7"/>
+<icon BUILTIN="button_cancel"/>
+</node>
+</node>
+</node>
+<node CREATED="1459321918935" FOLDED="true" ID="ID_1322734369" MODIFIED="1459526423830" TEXT="focused on figure of J">
 <icon BUILTIN="full-7"/>
 <icon BUILTIN="button_cancel"/>
 <node CREATED="1459321930569" ID="ID_1331719359" MODIFIED="1459435997796" TEXT="conveyed in way the story is told">
@@ -384,7 +395,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1459322012124" ID="ID_384647981" MODIFIED="1459436004621" TEXT="discipleship">
+<node CREATED="1459322012124" FOLDED="true" ID="ID_384647981" MODIFIED="1459526425244" TEXT="discipleship">
 <icon BUILTIN="full-7"/>
 <icon BUILTIN="button_cancel"/>
 <node CREATED="1459322035758" ID="ID_1878382233" MODIFIED="1459436004621" TEXT="part 1">
@@ -707,7 +718,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1459358049641" ID="ID_1965232074" MODIFIED="1459512858877" TEXT="Suffering Messiah">
+<node CREATED="1459358049641" FOLDED="true" ID="ID_1965232074" MODIFIED="1459525867119" TEXT="Suffering Messiah">
 <icon BUILTIN="full-6"/>
 <icon BUILTIN="button_cancel"/>
 <node CREATED="1459358068162" ID="ID_366104304" MODIFIED="1459438851251" TEXT="contrary to expectations">
@@ -759,7 +770,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1459358285757" ID="ID_180988673" MODIFIED="1459512858893" TEXT="Other aspects">
+<node CREATED="1459358285757" FOLDED="true" ID="ID_180988673" MODIFIED="1459525868773" TEXT="Other aspects">
 <icon BUILTIN="full-6"/>
 <icon BUILTIN="button_cancel"/>
 <node CREATED="1459358292478" ID="ID_1350720191" MODIFIED="1459512858893" TEXT="enigma">
@@ -948,16 +959,20 @@
 </node>
 </node>
 </node>
-<node CREATED="1459359108214" ID="ID_134203216" MODIFIED="1459431746213" TEXT="Date - ? lates 60s">
+<node CREATED="1459359108214" ID="ID_134203216" MODIFIED="1459525847291" TEXT="Date - ? lates 60s">
 <icon BUILTIN="full-6"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459359124587" ID="ID_542518993" MODIFIED="1459431746213" TEXT="Location">
+<node CREATED="1459359124587" FOLDED="true" ID="ID_542518993" MODIFIED="1459525850438" TEXT="Location">
 <icon BUILTIN="full-6"/>
-<node CREATED="1459359151499" ID="ID_381566225" MODIFIED="1459431746213" TEXT="? Rome">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459359151499" ID="ID_381566225" MODIFIED="1459525847292" TEXT="? Rome">
 <icon BUILTIN="full-6"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459359154307" ID="ID_427463594" MODIFIED="1459431746213" TEXT="? Galilee; Syria/Palestine">
+<node CREATED="1459359154307" ID="ID_427463594" MODIFIED="1459525847292" TEXT="? Galilee; Syria/Palestine">
 <icon BUILTIN="full-6"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
 </node>
@@ -1029,7 +1044,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1459321464462" ID="ID_519953233" MODIFIED="1459517545932" TEXT="Telford Chpt 3">
+<node CREATED="1459321464462" FOLDED="true" ID="ID_519953233" MODIFIED="1459525643942" TEXT="Telford Chpt 3">
 <icon BUILTIN="full-4"/>
 <node CREATED="1459367084994" ID="ID_1291651847" MODIFIED="1459431683182" TEXT="Mark as literature">
 <icon BUILTIN="full-4"/>
@@ -1274,7 +1289,7 @@
 <icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node CREATED="1459371135708" ID="ID_879264326" MODIFIED="1459500968739" TEXT="The plot">
+<node CREATED="1459371135708" FOLDED="true" ID="ID_879264326" MODIFIED="1459525613692" TEXT="The plot">
 <icon BUILTIN="full-4"/>
 <node CREATED="1459371169969" ID="ID_1051964715" MODIFIED="1459512858955" TEXT="coherent">
 <icon BUILTIN="full-4"/>
@@ -1321,9 +1336,10 @@
 </node>
 </node>
 </node>
-<node CREATED="1459321624406" ID="ID_1806034558" MODIFIED="1459517524943" TEXT="Hooker 19-26">
+<node CREATED="1459321624406" FOLDED="true" ID="ID_1806034558" MODIFIED="1459525595998" TEXT="Hooker 19-26">
 <icon BUILTIN="full-3"/>
-<node CREATED="1459403809713" ID="ID_1991229680" MODIFIED="1459500957873" TEXT="Difficulties">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459403809713" FOLDED="true" ID="ID_1991229680" MODIFIED="1459525573246" TEXT="Difficulties">
 <icon BUILTIN="full-3"/>
 <node CREATED="1459403877439" ID="ID_1491094829" MODIFIED="1459431646416" TEXT="his interpretation c.f. his inheritance">
 <icon BUILTIN="full-3"/>
@@ -1332,7 +1348,7 @@
 <icon BUILTIN="full-3"/>
 </node>
 </node>
-<node CREATED="1459403939566" ID="ID_1917974247" MODIFIED="1459512859018" TEXT="Good news">
+<node CREATED="1459403939566" FOLDED="true" ID="ID_1917974247" MODIFIED="1459525568813" TEXT="Good news">
 <icon BUILTIN="full-3"/>
 <icon BUILTIN="button_cancel"/>
 <node CREATED="1459403970190" ID="ID_910575911" MODIFIED="1459440912475" TEXT="disturbing">
@@ -1416,7 +1432,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1459404502351" ID="ID_320465347" MODIFIED="1459512859018" TEXT="&quot;about J.C&quot;">
+<node CREATED="1459404502351" FOLDED="true" ID="ID_320465347" MODIFIED="1459525529671" TEXT="&quot;about J.C&quot;">
 <icon BUILTIN="full-3"/>
 <icon BUILTIN="button_cancel"/>
 <node CREATED="1459404522513" ID="ID_1418761848" MODIFIED="1459440988805" TEXT="whole book focusses on figure of J.">
@@ -1464,8 +1480,9 @@
 </node>
 </node>
 </node>
-<node CREATED="1459404738524" ID="ID_1738329610" MODIFIED="1459512859033" TEXT="Told in narrative form">
+<node CREATED="1459404738524" FOLDED="true" ID="ID_1738329610" MODIFIED="1459525523945" TEXT="Told in narrative form">
 <icon BUILTIN="full-3"/>
+<icon BUILTIN="button_cancel"/>
 <node CREATED="1459404759493" ID="ID_1722769705" MODIFIED="1459441140770" TEXT="implicit Christology">
 <icon BUILTIN="full-3"/>
 <icon BUILTIN="button_cancel"/>
@@ -1502,20 +1519,24 @@
 <icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node CREATED="1459405014102" ID="ID_701459803" MODIFIED="1459431646431" TEXT="Every part of story makes implicit claims">
+<node CREATED="1459405014102" ID="ID_701459803" MODIFIED="1459525518020" TEXT="Every part of story makes implicit claims">
 <icon BUILTIN="full-3"/>
-<node CREATED="1459405034363" ID="ID_522020003" MODIFIED="1459431646431" TEXT="actions characterised by authority">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459405034363" ID="ID_522020003" MODIFIED="1459525518020" TEXT="actions characterised by authority">
 <icon BUILTIN="full-3"/>
-<node CREATED="1459405064951" ID="ID_575366152" MODIFIED="1459431646431" TEXT="challenges with choice beween blieveing inhim and rejecting">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459405064951" ID="ID_575366152" MODIFIED="1459525518019" TEXT="challenges with choice beween blieveing inhim and rejecting">
 <icon BUILTIN="full-3"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node CREATED="1459405103987" ID="ID_406366306" MODIFIED="1459431646431" TEXT="for or against?">
+<node CREATED="1459405103987" ID="ID_406366306" MODIFIED="1459525518018" TEXT="for or against?">
 <icon BUILTIN="full-3"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
 </node>
-<node CREATED="1459405148993" ID="ID_955936960" MODIFIED="1459512859049" TEXT="Discipleship runs throughout">
+<node CREATED="1459405148993" FOLDED="true" ID="ID_955936960" MODIFIED="1459525471386" TEXT="Discipleship runs throughout">
 <icon BUILTIN="full-3"/>
 <icon BUILTIN="button_cancel"/>
 <node CREATED="1459405198125" ID="ID_451703180" MODIFIED="1459441431037" TEXT="They are">
@@ -1623,348 +1644,467 @@
 </node>
 </node>
 </node>
-<node CREATED="1459406019319" ID="ID_1046884238" MODIFIED="1459464879255" TEXT="story dominated by his death">
+<node CREATED="1459406019319" FOLDED="true" ID="ID_1046884238" MODIFIED="1459525392177" TEXT="story dominated by his death">
 <icon BUILTIN="full-3"/>
-<node CREATED="1459406043461" ID="ID_674893681" MODIFIED="1459431646431" TEXT="why?">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459406043461" ID="ID_674893681" MODIFIED="1459525387124" TEXT="why?">
 <icon BUILTIN="full-3"/>
-<node CREATED="1459406047022" ID="ID_1704285074" MODIFIED="1459431646431" TEXT="? scandal of the cross">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459406047022" ID="ID_1704285074" MODIFIED="1459525387124" TEXT="? scandal of the cross">
 <icon BUILTIN="full-3"/>
-<node CREATED="1459406063036" ID="ID_930850077" MODIFIED="1459431646431" TEXT="offense to jews; folly to gentiles - 1 Cor 1:25">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459406063036" ID="ID_930850077" MODIFIED="1459525387123" TEXT="offense to jews; folly to gentiles - 1 Cor 1:25">
 <icon BUILTIN="full-3"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459406119830" ID="ID_1706592376" MODIFIED="1459431646431" TEXT="to deal with it he emphasises">
+<node CREATED="1459406119830" ID="ID_1706592376" MODIFIED="1459525387123" TEXT="to deal with it he emphasises">
 <icon BUILTIN="full-3"/>
-<node CREATED="1459406147540" ID="ID_1415583170" MODIFIED="1459431646431" TEXT="it was necessary">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459406147540" ID="ID_1415583170" MODIFIED="1459525387122" TEXT="it was necessary">
 <icon BUILTIN="full-3"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459406168338" ID="ID_406047168" MODIFIED="1459431646431" TEXT="in accordance with God&apos;s will">
+<node CREATED="1459406168338" ID="ID_406047168" MODIFIED="1459525387122" TEXT="in accordance with God&apos;s will">
 <icon BUILTIN="full-3"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459406174908" ID="ID_545630173" MODIFIED="1459431646431" TEXT="foretold in scripture">
+<node CREATED="1459406174908" ID="ID_545630173" MODIFIED="1459525387122" TEXT="foretold in scripture">
 <icon BUILTIN="full-3"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
 </node>
-<node CREATED="1459406251900" ID="ID_1591273764" MODIFIED="1459431646431" TEXT="? written at time of persecution">
+<node CREATED="1459406251900" ID="ID_1591273764" MODIFIED="1459525387122" TEXT="? written at time of persecution">
 <icon BUILTIN="full-3"/>
-<node CREATED="1459406273100" ID="ID_1705301549" MODIFIED="1459431646431" TEXT="call to share might strengthen">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459406273100" ID="ID_1705301549" MODIFIED="1459525387121" TEXT="call to share might strengthen">
 <icon BUILTIN="full-3"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node CREATED="1459406293878" ID="ID_1757946006" MODIFIED="1459512859064" TEXT="? Markan community (like Corinthians) was ignopring cross">
+<node CREATED="1459406293878" ID="ID_1757946006" MODIFIED="1459525387121" TEXT="? Markan community (like Corinthians) was ignopring cross">
 <icon BUILTIN="full-3"/>
-<node CREATED="1459406339678" ID="ID_1306668960" MODIFIED="1459431646431" TEXT="thinkign honour glory and nearness of the end">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459406339678" ID="ID_1306668960" MODIFIED="1459525387121" TEXT="thinkign honour glory and nearness of the end">
 <icon BUILTIN="full-3"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459406349715" ID="ID_817443298" MODIFIED="1459431646431" TEXT="forgetting distress and pain must preceed it">
+<node CREATED="1459406349715" ID="ID_817443298" MODIFIED="1459525387120" TEXT="forgetting distress and pain must preceed it">
 <icon BUILTIN="full-3"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459406377185" ID="ID_116288898" MODIFIED="1459431646431" TEXT="those who follow must be prepared for rejection and shame">
+<node CREATED="1459406377185" ID="ID_116288898" MODIFIED="1459525387120" TEXT="those who follow must be prepared for rejection and shame">
 <icon BUILTIN="full-3"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
 </node>
-<node CREATED="1459406750682" ID="ID_1113620847" MODIFIED="1459441952092" TEXT="deals with q. &quot;Why did he die&quot;?">
+<node CREATED="1459406750682" ID="ID_1113620847" MODIFIED="1459525387120" TEXT="deals with q. &quot;Why did he die&quot;?">
 <icon BUILTIN="full-3"/>
-<node CREATED="1459406772353" ID="ID_1366568514" MODIFIED="1459431646431" TEXT="answers at various levels">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459406772353" ID="ID_1366568514" MODIFIED="1459525387119" TEXT="answers at various levels">
 <icon BUILTIN="full-3"/>
-<node CREATED="1459406785988" ID="ID_851362139" MODIFIED="1459431646431" TEXT="will of God">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459406785988" ID="ID_851362139" MODIFIED="1459525387119" TEXT="will of God">
 <icon BUILTIN="full-3"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459406795618" ID="ID_1297773248" MODIFIED="1459431646431" TEXT="because he was obedient">
+<node CREATED="1459406795618" ID="ID_1297773248" MODIFIED="1459525387118" TEXT="because he was obedient">
 <icon BUILTIN="full-3"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459406805590" ID="ID_1147811949" MODIFIED="1459431646431" TEXT="(paradoxically) wickedness of enemies and treachery of Judas">
+<node CREATED="1459406805590" ID="ID_1147811949" MODIFIED="1459525387118" TEXT="(paradoxically) wickedness of enemies and treachery of Judas">
 <icon BUILTIN="full-3"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node CREATED="1459406847431" ID="ID_1236749711" MODIFIED="1459431646431" TEXT="they say &quot;How&quot;">
+<node CREATED="1459406847431" ID="ID_1236749711" MODIFIED="1459525387118" TEXT="they say &quot;How&quot;">
 <icon BUILTIN="full-3"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459406871109" ID="ID_1692397234" MODIFIED="1459431646431" TEXT="Don&apos;t say what it achieved">
+<node CREATED="1459406871109" ID="ID_1692397234" MODIFIED="1459525387117" TEXT="Don&apos;t say what it achieved">
 <icon BUILTIN="full-3"/>
-<node CREATED="1459406882139" ID="ID_1339854663" MODIFIED="1459431646431" TEXT="none of evanglists talk of atonement">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459406882139" ID="ID_1339854663" MODIFIED="1459525387117" TEXT="none of evanglists talk of atonement">
 <icon BUILTIN="full-3"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459406903359" ID="ID_1923520668" MODIFIED="1459431646431" TEXT="Mk talks of">
+<node CREATED="1459406903359" ID="ID_1923520668" MODIFIED="1459525387116" TEXT="Mk talks of">
 <icon BUILTIN="full-3"/>
-<node CREATED="1459406918913" ID="ID_819178292" MODIFIED="1459431646431" TEXT="&quot;for many&quot; 10:45; 14:24">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459406918913" ID="ID_819178292" MODIFIED="1459525387116" TEXT="&quot;for many&quot; 10:45; 14:24">
 <icon BUILTIN="full-3"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459406976878" ID="ID_1829252273" MODIFIED="1459431646431" TEXT="as a ransom">
+<node CREATED="1459406976878" ID="ID_1829252273" MODIFIED="1459525387115" TEXT="as a ransom">
 <icon BUILTIN="full-3"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459406983583" ID="ID_679980717" MODIFIED="1459431646431" TEXT="effects a covenant">
+<node CREATED="1459406983583" ID="ID_679980717" MODIFIED="1459525387115" TEXT="effects a covenant">
 <icon BUILTIN="full-3"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459407035309" ID="ID_586117704" MODIFIED="1459431646431" TEXT="creates a new people who will inherit Kingdom of G - 14:25">
+<node CREATED="1459407035309" ID="ID_586117704" MODIFIED="1459525387114" TEXT="creates a new people who will inherit Kingdom of G - 14:25">
 <icon BUILTIN="full-3"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
 </node>
 </node>
 </node>
 </node>
-<node CREATED="1459415189015" FOLDED="true" ID="ID_848487358" MODIFIED="1459517523155" TEXT="ESV">
+<node CREATED="1459415189015" ID="ID_848487358" MODIFIED="1459524793517" TEXT="ESV">
 <icon BUILTIN="full-2"/>
-<node CREATED="1459415199554" ID="ID_1085317534" MODIFIED="1459503766594" TEXT="Author &amp; title">
+<node CREATED="1459415199554" FOLDED="true" ID="ID_1085317534" MODIFIED="1459525702451" TEXT="Author &amp; title">
 <icon BUILTIN="full-2"/>
-<node CREATED="1459415211469" ID="ID_1821333960" MODIFIED="1459431544973" TEXT="evidence from church fathers">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459415211469" FOLDED="true" ID="ID_1821333960" MODIFIED="1459525671238" TEXT="evidence from church fathers">
 <icon BUILTIN="full-2"/>
-<node CREATED="1459415279531" ID="ID_1104805459" MODIFIED="1459431544973" TEXT="peter passed reports to his attendant John Mark">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459415279531" ID="ID_1104805459" MODIFIED="1459525669206" TEXT="peter passed reports to his attendant John Mark">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459415367706" ID="ID_1950556869" MODIFIED="1459431544973" TEXT="John Elder --&gt; Papias --&gt; Eusebius that Mark">
+<node CREATED="1459415367706" ID="ID_1950556869" MODIFIED="1459525669206" TEXT="John Elder --&gt; Papias --&gt; Eusebius that Mark">
 <icon BUILTIN="full-2"/>
-<node CREATED="1459415430257" ID="ID_847390454" MODIFIED="1459431544973" TEXT="was writer for Peter">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459415430257" ID="ID_847390454" MODIFIED="1459525669206" TEXT="was writer for Peter">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459415447260" ID="ID_262673665" MODIFIED="1459431544973" TEXT="wrote down acurately what he coudl remember of Peter&apos;s words">
+<node CREATED="1459415447260" ID="ID_262673665" MODIFIED="1459525669206" TEXT="wrote down acurately what he coudl remember of Peter&apos;s words">
 <icon BUILTIN="full-2"/>
-<node CREATED="1459415472535" ID="ID_975703770" MODIFIED="1459431544973" TEXT="which Peter had adapted to the moment">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459415472535" ID="ID_975703770" MODIFIED="1459525669206" TEXT="which Peter had adapted to the moment">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node CREATED="1459415487972" ID="ID_442079048" MODIFIED="1459431544973" TEXT="was not a eye witness or disciple">
+<node CREATED="1459415487972" ID="ID_442079048" MODIFIED="1459525669207" TEXT="was not a eye witness or disciple">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459415512358" ID="ID_325640997" MODIFIED="1459431544973" TEXT="did not intnd to omit or misrepresent">
+<node CREATED="1459415512358" ID="ID_325640997" MODIFIED="1459525669207" TEXT="did not intnd to omit or misrepresent">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
 </node>
-<node CREATED="1459415557824" ID="ID_418705545" MODIFIED="1459431544973" TEXT="Internal evidence">
+<node CREATED="1459415557824" FOLDED="true" ID="ID_418705545" MODIFIED="1459525686062" TEXT="Internal evidence">
 <icon BUILTIN="full-2"/>
-<node CREATED="1459415566663" ID="ID_932405383" MODIFIED="1459431544973" TEXT="vivid if involving Peter">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459415566663" ID="ID_932405383" MODIFIED="1459525683781" TEXT="vivid if involving Peter">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459415595120" ID="ID_4492342" MODIFIED="1459431544973" TEXT="weaknesses of Peter">
+<node CREATED="1459415595120" ID="ID_4492342" MODIFIED="1459525683781" TEXT="weaknesses of Peter">
 <icon BUILTIN="full-2"/>
-<node CREATED="1459415614060" ID="ID_216368352" MODIFIED="1459431544973" TEXT="and disciples generally">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459415614060" ID="ID_216368352" MODIFIED="1459525683780" TEXT="and disciples generally">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node CREATED="1459415628357" ID="ID_1441311146" MODIFIED="1459431544957" TEXT="omits praiseworthy or notable references to P. in Mt &amp; Lk">
+<node CREATED="1459415628357" ID="ID_1441311146" MODIFIED="1459525683780" TEXT="omits praiseworthy or notable references to P. in Mt &amp; Lk">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459415661918" ID="ID_1748006515" MODIFIED="1459504560762" TEXT="structural proximity with Peters Casara speech (acts 10:34-43)">
+<node CREATED="1459415661918" ID="ID_1748006515" MODIFIED="1459525683779" TEXT="structural proximity with Peters Casara speech (acts 10:34-43)">
 <icon BUILTIN="full-2"/>
-<node CREATED="1459416084460" ID="ID_147801865" MODIFIED="1459431544957" TEXT="Annointed ">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459416084460" ID="ID_147801865" MODIFIED="1459525683779" TEXT="Annointed ">
 <icon BUILTIN="full-2"/>
-<node CREATED="1459416107388" ID="ID_514740024" MODIFIED="1459431544957" TEXT="ith HS &amp; power">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459416107388" ID="ID_514740024" MODIFIED="1459525683779" TEXT="ith HS &amp; power">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node CREATED="1459416101352" ID="ID_1324390947" MODIFIED="1459431544957" TEXT="go abou doing good &amp; healing those oppressed by devil">
+<node CREATED="1459416101352" ID="ID_1324390947" MODIFIED="1459525683778" TEXT="go abou doing good &amp; healing those oppressed by devil">
 <icon BUILTIN="full-2"/>
-<node CREATED="1459416160216" ID="ID_366152373" MODIFIED="1459431544957" TEXT="God was with him">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459416160216" ID="ID_366152373" MODIFIED="1459525683778" TEXT="God was with him">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node CREATED="1459416241783" ID="ID_575806658" MODIFIED="1459431544957" TEXT="works in land of Jews &amp; Jerusalem">
+<node CREATED="1459416241783" ID="ID_575806658" MODIFIED="1459525683778" TEXT="works in land of Jews &amp; Jerusalem">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459416255145" ID="ID_422886796" MODIFIED="1459431544957" TEXT="put to death">
+<node CREATED="1459416255145" ID="ID_422886796" MODIFIED="1459525683777" TEXT="put to death">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459416272681" ID="ID_969530303" MODIFIED="1459431544957" TEXT="raised by God">
+<node CREATED="1459416272681" ID="ID_969530303" MODIFIED="1459525683777" TEXT="raised by God">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459416284630" ID="ID_1578561198" MODIFIED="1459431544957" TEXT="appeared to chosen">
+<node CREATED="1459416284630" ID="ID_1578561198" MODIFIED="1459525683777" TEXT="appeared to chosen">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459416320131" ID="ID_1944408884" MODIFIED="1459431544957" TEXT="command us to preach">
+<node CREATED="1459416320131" ID="ID_1944408884" MODIFIED="1459525683776" TEXT="command us to preach">
 <icon BUILTIN="full-2"/>
-<node CREATED="1459416346566" ID="ID_1597691600" MODIFIED="1459431544957" TEXT="he is the annointed one">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459416346566" ID="ID_1597691600" MODIFIED="1459525683776" TEXT="he is the annointed one">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459416372195" ID="ID_493854663" MODIFIED="1459431544957" TEXT="will be judge">
+<node CREATED="1459416372195" ID="ID_493854663" MODIFIED="1459525683776" TEXT="will be judge">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node CREATED="1459416400341" ID="ID_989766342" MODIFIED="1459431544957" TEXT="prophets bar witness that anyone who believes in hom will receive forgiveness">
+<node CREATED="1459416400341" ID="ID_989766342" MODIFIED="1459525683775" TEXT="prophets bar witness that anyone who believes in hom will receive forgiveness">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
 </node>
 </node>
-<node CREATED="1459416457937" ID="ID_1449097048" MODIFIED="1459455903079" TEXT="Date and location">
+<node CREATED="1459416457937" FOLDED="true" ID="ID_1449097048" MODIFIED="1459525698029" TEXT="Date and location">
 <icon BUILTIN="full-2"/>
-<node CREATED="1459416613241" ID="ID_1318095909" MODIFIED="1459431544957" TEXT="Rome, Mid to late 50s">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459416613241" ID="ID_1318095909" MODIFIED="1459525696197" TEXT="Rome, Mid to late 50s">
 <icon BUILTIN="full-2"/>
-<node CREATED="1459416568493" ID="ID_1028281928" MODIFIED="1459431544957" TEXT="? Peter&apos;s lifetime">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459416568493" ID="ID_1028281928" MODIFIED="1459525696197" TEXT="? Peter&apos;s lifetime">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459416629607" ID="ID_651713331" MODIFIED="1459431544957" TEXT="? Peter approved">
+<node CREATED="1459416629607" ID="ID_651713331" MODIFIED="1459525696196" TEXT="? Peter approved">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node CREATED="1459416640391" ID="ID_1914309870" MODIFIED="1459431544957" TEXT="Could be mid to lat 60s">
+<node CREATED="1459416640391" ID="ID_1914309870" MODIFIED="1459525696196" TEXT="Could be mid to lat 60s">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node CREATED="1459416681716" ID="ID_961635447" MODIFIED="1459442471874" TEXT="Theme">
+<node CREATED="1459416681716" FOLDED="true" ID="ID_961635447" MODIFIED="1459525917926" TEXT="Theme">
 <icon BUILTIN="full-2"/>
-<node CREATED="1459416684904" ID="ID_1110978024" MODIFIED="1459442204693" TEXT="&quot;Present and defend Jesus universal call to discipleship&quot;">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459416684904" ID="ID_1110978024" MODIFIED="1459525915509" TEXT="&quot;Present and defend Jesus universal call to discipleship&quot;">
 <icon BUILTIN="full-2"/>
-<node CREATED="1459416750920" ID="ID_483380842" MODIFIED="1459431544957" TEXT="Audience either for or against">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459416750920" ID="ID_483380842" MODIFIED="1459525915509" TEXT="Audience either for or against">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node CREATED="1459416766228" ID="ID_80939665" MODIFIED="1459431544957" TEXT="done by narrating identity and teaching of Jesus">
+<node CREATED="1459416766228" ID="ID_80939665" MODIFIED="1459525915509" TEXT="done by narrating identity and teaching of Jesus">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459416801951" ID="ID_1371010899" MODIFIED="1459431544957" TEXT="implies it is a relationship, not following a code of conduct">
+<node CREATED="1459416801951" ID="ID_1371010899" MODIFIED="1459525915508" TEXT="implies it is a relationship, not following a code of conduct">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459416835686" ID="ID_1266059455" MODIFIED="1459431544957" TEXT="Fellowship includes:">
+<node CREATED="1459416835686" ID="ID_1266059455" MODIFIED="1459525915508" TEXT="Fellowship includes:">
 <icon BUILTIN="full-2"/>
-<node CREATED="1459416870165" ID="ID_493913936" MODIFIED="1459431544957" TEXT="trusting him">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459416870165" ID="ID_493913936" MODIFIED="1459525915508" TEXT="trusting him">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459416847222" ID="ID_136503719" MODIFIED="1459431544957" TEXT="confessing him">
+<node CREATED="1459416847222" ID="ID_136503719" MODIFIED="1459525915507" TEXT="confessing him">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459416859696" ID="ID_471992659" MODIFIED="1459431544957" TEXT="taking note of his conduct">
+<node CREATED="1459416859696" ID="ID_471992659" MODIFIED="1459525915507" TEXT="taking note of his conduct">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459416882879" ID="ID_1253278336" MODIFIED="1459431544957" TEXT="following hi teaching">
+<node CREATED="1459416882879" ID="ID_1253278336" MODIFIED="1459525915507" TEXT="following hi teaching">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459416889941" ID="ID_643993385" MODIFIED="1459431544957" TEXT="being shaped by th erelationship wioth him">
+<node CREATED="1459416889941" ID="ID_643993385" MODIFIED="1459525915506" TEXT="being shaped by th erelationship wioth him">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node CREATED="1459416910381" ID="ID_1895444330" MODIFIED="1459431544957" TEXT="being prepared to face the kind of rejection he faces">
+<node CREATED="1459416910381" ID="ID_1895444330" MODIFIED="1459525915506" TEXT="being prepared to face the kind of rejection he faces">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node CREATED="1459416995063" ID="ID_200141009" MODIFIED="1459431544957" TEXT="Purpose, ocassion, background">
+<node CREATED="1459416995063" FOLDED="true" ID="ID_200141009" MODIFIED="1459525928066" TEXT="Purpose, ocassion, background">
 <icon BUILTIN="full-2"/>
-<node CREATED="1459417016071" ID="ID_495624897" MODIFIED="1459431544957" TEXT="from Rome">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459417016071" ID="ID_495624897" MODIFIED="1459525926045" TEXT="from Rome">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459417019102" ID="ID_1719639132" MODIFIED="1459431544957" TEXT="for wider church">
+<node CREATED="1459417019102" ID="ID_1719639132" MODIFIED="1459525926045" TEXT="for wider church">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459417028182" ID="ID_1366467387" MODIFIED="1459431544957" TEXT="apostolic testimony of Peter">
+<node CREATED="1459417028182" ID="ID_1366467387" MODIFIED="1459525926044" TEXT="apostolic testimony of Peter">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459417053205" ID="ID_1350110771" MODIFIED="1459431544957" TEXT="need to know so that they understand that coming is culmination of God&apos;s work with Isral &amp; entre world">
+<node CREATED="1459417053205" ID="ID_1350110771" MODIFIED="1459525926044" TEXT="need to know so that they understand that coming is culmination of God&apos;s work with Isral &amp; entre world">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node CREATED="1459417156255" ID="ID_13190872" MODIFIED="1459457843412" TEXT="Themes">
+<node CREATED="1459417156255" FOLDED="true" ID="ID_13190872" MODIFIED="1459526151840" TEXT="Themes">
 <icon BUILTIN="full-2"/>
-<node CREATED="1459417161856" ID="ID_207928083" MODIFIED="1459442170147" TEXT="J corrects messianic expectations and misunderstandings">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459417161856" ID="ID_207928083" MODIFIED="1459526148891" TEXT="J corrects messianic expectations and misunderstandings">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459417182149" ID="ID_817417478" MODIFIED="1459431544957" TEXT="J is man">
+<node CREATED="1459417182149" ID="ID_817417478" MODIFIED="1459526148890" TEXT="J is man">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459417196441" ID="ID_1064627344" MODIFIED="1459431544957" TEXT="J is S of G">
+<node CREATED="1459417196441" ID="ID_1064627344" MODIFIED="1459526148890" TEXT="J is S of G">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459417200141" ID="ID_1545373662" MODIFIED="1459431544957" TEXT="J is S of Man with all power and authority">
+<node CREATED="1459417200141" ID="ID_1545373662" MODIFIED="1459526148890" TEXT="J is S of Man with all power and authority">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459417223304" ID="ID_1820279908" MODIFIED="1459431544957" TEXT="J as S of M must suffer">
+<node CREATED="1459417223304" ID="ID_1820279908" MODIFIED="1459526148889" TEXT="J as S of M must suffer">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459417230243" ID="ID_622838208" MODIFIED="1459431544957" TEXT="J is Lord">
+<node CREATED="1459417230243" ID="ID_622838208" MODIFIED="1459526148889" TEXT="J is Lord">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459417242441" ID="ID_1786749742" MODIFIED="1459442912249" TEXT="J calls followers to imitate him">
+<node CREATED="1459417242441" ID="ID_1786749742" MODIFIED="1459526148889" TEXT="J calls followers to imitate him">
 <icon BUILTIN="full-2"/>
-<node CREATED="1459417252918" ID="ID_1196441301" MODIFIED="1459431544957" TEXT="service">
+<icon BUILTIN="button_cancel"/>
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459417252918" ID="ID_1196441301" MODIFIED="1459526148888" TEXT="service">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459417255802" ID="ID_279086880" MODIFIED="1459431544957" TEXT="self-denial">
+<node CREATED="1459417255802" ID="ID_279086880" MODIFIED="1459526148888" TEXT="self-denial">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459417261214" ID="ID_1484681096" MODIFIED="1459431544957" TEXT="suffering">
+<node CREATED="1459417261214" ID="ID_1484681096" MODIFIED="1459526148887" TEXT="suffering">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node CREATED="1459417273655" ID="ID_1239345382" MODIFIED="1459431544957" TEXT="J teachs on K of God &amp; God will continute call a people to himself">
+<node CREATED="1459417273655" ID="ID_1239345382" MODIFIED="1459526148887" TEXT="J teachs on K of God &amp; God will continute call a people to himself">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node CREATED="1459417323063" ID="ID_943145965" MODIFIED="1459512859127" TEXT="Salvation">
+<node CREATED="1459417323063" FOLDED="true" ID="ID_943145965" MODIFIED="1459526076597" TEXT="Salvation">
 <icon BUILTIN="full-2"/>
-<node CREATED="1459417327383" ID="ID_1624379405" MODIFIED="1459431544957" TEXT="coms to bring Sal.">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459417327383" ID="ID_1624379405" MODIFIED="1459526073584" TEXT="coms to bring Sal.">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459417342710" ID="ID_1169201142" MODIFIED="1459431544957" TEXT="as prohpesied in OT">
+<node CREATED="1459417342710" ID="ID_1169201142" MODIFIED="1459526073584" TEXT="as prohpesied in OT">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459417354652" ID="ID_1653362115" MODIFIED="1459431544957" TEXT="triumph over sin &amp; satan">
+<node CREATED="1459417354652" ID="ID_1653362115" MODIFIED="1459526073583" TEXT="triumph over sin &amp; satan">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459417376605" ID="ID_1692963074" MODIFIED="1459431544941" TEXT="fulfilment with crucifixion &amp; resurrection">
+<node CREATED="1459417376605" ID="ID_1692963074" MODIFIED="1459526073583" TEXT="fulfilment with crucifixion &amp; resurrection">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node CREATED="1459421162149" ID="ID_1745206302" MODIFIED="1459512859143" TEXT="Literary features">
+<node CREATED="1459421162149" FOLDED="true" ID="ID_1745206302" MODIFIED="1459526234068" TEXT="Literary features">
 <icon BUILTIN="full-2"/>
-<node CREATED="1459421171190" ID="ID_1161697019" MODIFIED="1459431544941" TEXT="docudrama">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459421171190" ID="ID_1161697019" MODIFIED="1459526231388" TEXT="docudrama">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459421194569" ID="ID_323021355" MODIFIED="1459431544941" TEXT="noteworth clips, representative events, snatchs of speech/dialogue; commentary by narrator">
+<node CREATED="1459421194569" ID="ID_323021355" MODIFIED="1459526231388" TEXT="noteworth clips, representative events, snatchs of speech/dialogue; commentary by narrator">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459421240035" ID="ID_1956183935" MODIFIED="1459431544941" TEXT="careful recorder">
+<node CREATED="1459421240035" ID="ID_1956183935" MODIFIED="1459526231387" TEXT="careful recorder">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459421264506" ID="ID_1103146398" MODIFIED="1459431544941" TEXT="no family origins or inner life">
+<node CREATED="1459421264506" ID="ID_1103146398" MODIFIED="1459526231387" TEXT="no family origins or inner life">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459421280533" ID="ID_1140420907" MODIFIED="1459443024824" TEXT="speak of actrions and tachings">
+<node CREATED="1459421280533" ID="ID_1140420907" MODIFIED="1459526231387" TEXT="speak of actrions and tachings">
 <icon BUILTIN="full-2"/>
-<node CREATED="1459421299873" ID="ID_1400520843" MODIFIED="1459431544941" TEXT="that present missoin and ministry">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459421299873" ID="ID_1400520843" MODIFIED="1459526231386" TEXT="that present missoin and ministry">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node CREATED="1459421327916" ID="ID_352222311" MODIFIED="1459431544941" TEXT="is an implied proclamation and apologetic">
+<node CREATED="1459421327916" ID="ID_352222311" MODIFIED="1459526231385" TEXT="is an implied proclamation and apologetic">
 <icon BUILTIN="full-2"/>
-<node CREATED="1459421344704" ID="ID_1013606052" MODIFIED="1459431544941" TEXT="hints at redemptive meaning of events">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459421344704" ID="ID_1013606052" MODIFIED="1459526231385" TEXT="hints at redemptive meaning of events">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node CREATED="1459421386806" ID="ID_25448898" MODIFIED="1459431544941" TEXT="narrative ">
+<node CREATED="1459421386806" ID="ID_25448898" MODIFIED="1459526231384" TEXT="narrative ">
 <icon BUILTIN="full-2"/>
-<node CREATED="1459421395441" ID="ID_712050491" MODIFIED="1459431544941" TEXT="no continuous story line">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459421395441" ID="ID_712050491" MODIFIED="1459526231384" TEXT="no continuous story line">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459421408380" ID="ID_580429444" MODIFIED="1459431544941" TEXT="collection of discrete units">
+<node CREATED="1459421408380" ID="ID_580429444" MODIFIED="1459526231383" TEXT="collection of discrete units">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node CREATED="1459421426659" ID="ID_712155133" MODIFIED="1459431544941" TEXT="go along with Mk as he assembles th edocumentary">
+<node CREATED="1459421426659" ID="ID_712155133" MODIFIED="1459526231383" TEXT="go along with Mk as he assembles th edocumentary">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459421455200" ID="ID_1373632564" MODIFIED="1459431544941" TEXT="unitfyign element is teh protagonist - Christ">
+<node CREATED="1459421455200" ID="ID_1373632564" MODIFIED="1459526231383" TEXT="unitfyign element is teh protagonist - Christ">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459421475188" ID="ID_1997433985" MODIFIED="1459431544941" TEXT="Fast paced narrative">
+<node CREATED="1459421475188" ID="ID_1997433985" MODIFIED="1459526231382" TEXT="Fast paced narrative">
 <icon BUILTIN="full-2"/>
-<node CREATED="1459421490565" ID="ID_184296786" MODIFIED="1459431544941" TEXT="vivid descriptice details">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459421490565" ID="ID_184296786" MODIFIED="1459526231382" TEXT="vivid descriptice details">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459421501823" ID="ID_1184054721" MODIFIED="1459431544941" TEXT="verbs portraying action in progress">
+<node CREATED="1459421501823" ID="ID_1184054721" MODIFIED="1459526231381" TEXT="verbs portraying action in progress">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node CREATED="1459421521548" ID="ID_253964316" MODIFIED="1459431544941" TEXT="often records responses">
+<node CREATED="1459421521548" ID="ID_253964316" MODIFIED="1459526231381" TEXT="often records responses">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459421544050" ID="ID_1195586463" MODIFIED="1459431544941" TEXT="chose events which wer">
+<node CREATED="1459421544050" ID="ID_1195586463" MODIFIED="1459526231381" TEXT="chose events which wer">
 <icon BUILTIN="full-2"/>
-<node CREATED="1459421550485" ID="ID_1063796077" MODIFIED="1459431544941" TEXT="typical">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459421550485" ID="ID_1063796077" MODIFIED="1459526231380" TEXT="typical">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459421553074" ID="ID_1912376072" MODIFIED="1459431544941" TEXT="unique">
+<node CREATED="1459421553074" ID="ID_1912376072" MODIFIED="1459526231380" TEXT="unique">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
 </node>
@@ -1981,253 +2121,344 @@
 </node>
 </node>
 </node>
-<node CREATED="1459421667430" ID="ID_1691915575" MODIFIED="1459516835540" TEXT="New B Commentary">
+<node CREATED="1459421667430" FOLDED="true" ID="ID_1691915575" MODIFIED="1459526365830" TEXT="New B Commentary">
 <icon BUILTIN="full-1"/>
-<node CREATED="1459421675346" ID="ID_1285276385" MODIFIED="1459503508121" TEXT="authorship">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459421675346" ID="ID_1285276385" MODIFIED="1459526363044" TEXT="authorship">
 <icon BUILTIN="full-1"/>
-<node CREATED="1459421679958" ID="ID_885627132" MODIFIED="1459431466894" TEXT="assoiate of Peter">
+<icon BUILTIN="button_cancel"/>
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459421679958" ID="ID_885627132" MODIFIED="1459526363043" TEXT="assoiate of Peter">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459421702226" ID="ID_1993051201" MODIFIED="1459431466894" TEXT="rlative of Barnabus - Col 4:10">
+<node CREATED="1459421702226" ID="ID_1993051201" MODIFIED="1459526363043" TEXT="rlative of Barnabus - Col 4:10">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459421721755" ID="ID_1959783926" MODIFIED="1459431466894" TEXT="converted through Peter? 1 Pet 5:13">
+<node CREATED="1459421721755" ID="ID_1959783926" MODIFIED="1459526363043" TEXT="converted through Peter? 1 Pet 5:13">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459421744188" ID="ID_577958644" MODIFIED="1459431466893" TEXT="writings of Church Fathers">
+<node CREATED="1459421744188" ID="ID_577958644" MODIFIED="1459526363042" TEXT="writings of Church Fathers">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node CREATED="1459421765825" ID="ID_732745950" MODIFIED="1459455855055" TEXT="dat and place">
+<node CREATED="1459421765825" FOLDED="true" ID="ID_732745950" MODIFIED="1459526363042" TEXT="dat and place">
 <icon BUILTIN="full-1"/>
-<node CREATED="1459421774117" ID="ID_1635025148" MODIFIED="1459431466893" TEXT="earliets gosp.">
+<icon BUILTIN="button_cancel"/>
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459421774117" ID="ID_1635025148" MODIFIED="1459526299399" TEXT="earliets gosp.">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459421811218" ID="ID_256296849" MODIFIED="1459431466892" TEXT="? mid-late 50s">
+<node CREATED="1459421811218" ID="ID_256296849" MODIFIED="1459526299399" TEXT="? mid-late 50s">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459421827778" ID="ID_1525918394" MODIFIED="1459431466892" TEXT="Rome">
+<node CREATED="1459421827778" ID="ID_1525918394" MODIFIED="1459526299398" TEXT="Rome">
 <icon BUILTIN="full-1"/>
-<node CREATED="1459421833584" ID="ID_670286799" MODIFIED="1459431466892" TEXT="follows ancient testimony">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459421833584" ID="ID_670286799" MODIFIED="1459526299398" TEXT="follows ancient testimony">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459421850239" ID="ID_1786780080" MODIFIED="1459431466891" TEXT="1 Pet 5:13 confirms?">
+<node CREATED="1459421850239" ID="ID_1786780080" MODIFIED="1459526299397" TEXT="1 Pet 5:13 confirms?">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node CREATED="1459421881870" ID="ID_1787081257" MODIFIED="1459431466891" TEXT="Particularly gor Romans but Gentiles in general">
+<node CREATED="1459421881870" ID="ID_1787081257" MODIFIED="1459526299397" TEXT="Particularly gor Romans but Gentiles in general">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459421935792" ID="ID_171982170" MODIFIED="1459431466891" TEXT="Lord&apos;s ">
+<node CREATED="1459421935792" ID="ID_171982170" MODIFIED="1459526299396" TEXT="Lord&apos;s ">
 <icon BUILTIN="full-1"/>
-<node CREATED="1459421950966" ID="ID_216417395" MODIFIED="1459431466891" TEXT="ceasless activity">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459421950966" ID="ID_216417395" MODIFIED="1459526299396" TEXT="ceasless activity">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459421952647" ID="ID_121978484" MODIFIED="1459431466890" TEXT="power over">
+<node CREATED="1459421952647" ID="ID_121978484" MODIFIED="1459526299395" TEXT="power over">
 <icon BUILTIN="full-1"/>
-<node CREATED="1459421957484" ID="ID_838488709" MODIFIED="1459431466890" TEXT="demons">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459421957484" ID="ID_838488709" MODIFIED="1459526299395" TEXT="demons">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459421970385" ID="ID_144734442" MODIFIED="1459431466890" TEXT="disease">
+<node CREATED="1459421970385" ID="ID_144734442" MODIFIED="1459526299394" TEXT="disease">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459421972567" ID="ID_750148180" MODIFIED="1459431466889" TEXT="death">
+<node CREATED="1459421972567" ID="ID_750148180" MODIFIED="1459526299394" TEXT="death">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node CREATED="1459421984610" ID="ID_1250690149" MODIFIED="1459431466889" TEXT="woudl appal to Romans who were interested in deeds">
+<node CREATED="1459421984610" ID="ID_1250690149" MODIFIED="1459526299393" TEXT="woudl appal to Romans who were interested in deeds">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node CREATED="1459422009642" ID="ID_1827008479" MODIFIED="1459431466889" TEXT="purpose">
+<node CREATED="1459422009642" ID="ID_1827008479" MODIFIED="1459526299393" TEXT="purpose">
 <icon BUILTIN="full-1"/>
-<node CREATED="1459422032067" ID="ID_880867806" MODIFIED="1459431466888" TEXT="needs of Rome">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459422032067" ID="ID_880867806" MODIFIED="1459526299393" TEXT="needs of Rome">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459422044172" ID="ID_1678103170" MODIFIED="1459431466888" TEXT="strengthen its faith in view of impending persecution">
+<node CREATED="1459422044172" ID="ID_1678103170" MODIFIED="1459526299392" TEXT="strengthen its faith in view of impending persecution">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459422069294" ID="ID_1151955558" MODIFIED="1459431466887" TEXT="material for evangelists">
+<node CREATED="1459422069294" ID="ID_1151955558" MODIFIED="1459526299392" TEXT="material for evangelists">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
 </node>
-<node CREATED="1459422131468" ID="ID_535009913" MODIFIED="1459503756454" TEXT="Based on Peter">
+<node CREATED="1459422131468" FOLDED="true" ID="ID_535009913" MODIFIED="1459526363041" TEXT="Based on Peter">
 <icon BUILTIN="full-1"/>
-<node CREATED="1459422151341" ID="ID_721091204" MODIFIED="1459431466887" TEXT="some of his own">
+<icon BUILTIN="button_cancel"/>
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459422151341" ID="ID_721091204" MODIFIED="1459526311529" TEXT="some of his own">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459422160811" ID="ID_1483520551" MODIFIED="1459502732382" TEXT="sequencing may be homeletic rather than chronological">
+<node CREATED="1459422160811" ID="ID_1483520551" MODIFIED="1459526311528" TEXT="sequencing may be homeletic rather than chronological">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459422211445" ID="ID_1541654489" MODIFIED="1459431466886" TEXT="influence of Peter">
+<node CREATED="1459422211445" ID="ID_1541654489" MODIFIED="1459526311528" TEXT="influence of Peter">
 <icon BUILTIN="full-1"/>
-<node CREATED="1459422218681" ID="ID_276686027" MODIFIED="1459431466885" TEXT="starts when became disciple">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459422218681" ID="ID_276686027" MODIFIED="1459526311528" TEXT="starts when became disciple">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459422233145" ID="ID_622595329" MODIFIED="1459431466885" TEXT="Galilean ministry prominent">
+<node CREATED="1459422233145" ID="ID_622595329" MODIFIED="1459526311527" TEXT="Galilean ministry prominent">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459422252980" ID="ID_1214618916" MODIFIED="1459431466885" TEXT="vividness suggests 1st hand">
+<node CREATED="1459422252980" ID="ID_1214618916" MODIFIED="1459526311527" TEXT="vividness suggests 1st hand">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459422274989" ID="ID_1797479407" MODIFIED="1459431466884" TEXT="Peter in good light omitted">
+<node CREATED="1459422274989" ID="ID_1797479407" MODIFIED="1459526311527" TEXT="Peter in good light omitted">
 <icon BUILTIN="full-1"/>
-<node CREATED="1459422282379" ID="ID_766071659" MODIFIED="1459431466884" TEXT="benediction a Casarea Phillipi">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459422282379" ID="ID_766071659" MODIFIED="1459526311526" TEXT="benediction a Casarea Phillipi">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459422294772" ID="ID_942904249" MODIFIED="1459431466884" TEXT="walking on water">
+<node CREATED="1459422294772" ID="ID_942904249" MODIFIED="1459526311526" TEXT="walking on water">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node CREATED="1459422309074" ID="ID_874535802" MODIFIED="1459431466883" TEXT="less favourable teated fully">
+<node CREATED="1459422309074" ID="ID_874535802" MODIFIED="1459526311526" TEXT="less favourable teated fully">
 <icon BUILTIN="full-1"/>
-<node CREATED="1459422325532" ID="ID_1586248412" MODIFIED="1459431466883" TEXT="e.g. denial">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459422325532" ID="ID_1586248412" MODIFIED="1459526311525" TEXT="e.g. denial">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
 </node>
 </node>
-<node CREATED="1459422441902" ID="ID_1386645682" MODIFIED="1459501147602" TEXT="Sources">
+<node CREATED="1459422441902" FOLDED="true" ID="ID_1386645682" MODIFIED="1459526363041" TEXT="Sources">
 <icon BUILTIN="full-1"/>
-<node CREATED="1459422446708" ID="ID_141516606" MODIFIED="1459431466882" TEXT="Peter">
+<icon BUILTIN="button_cancel"/>
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459422446708" ID="ID_141516606" MODIFIED="1459526322844" TEXT="Peter">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459422523584" ID="ID_1005249201" MODIFIED="1459431466882" TEXT="Oral trad">
+<node CREATED="1459422523584" ID="ID_1005249201" MODIFIED="1459526322844" TEXT="Oral trad">
 <icon BUILTIN="full-1"/>
-<node CREATED="1459422538114" ID="ID_1121409582" MODIFIED="1459431466882" TEXT="cycles">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459422538114" ID="ID_1121409582" MODIFIED="1459526322843" TEXT="cycles">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459422542334" ID="ID_195892400" MODIFIED="1459431466881" TEXT="Semitic">
+<node CREATED="1459422542334" ID="ID_195892400" MODIFIED="1459526322843" TEXT="Semitic">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node CREATED="1459422567324" ID="ID_337277166" MODIFIED="1459431466881" TEXT="Own reminiscencs">
+<node CREATED="1459422567324" ID="ID_337277166" MODIFIED="1459526322843" TEXT="Own reminiscencs">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459422577044" ID="ID_1981782233" MODIFIED="1459431466881" TEXT="? docs">
+<node CREATED="1459422577044" ID="ID_1981782233" MODIFIED="1459526322842" TEXT="? docs">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node CREATED="1459423118361" ID="ID_178461103" MODIFIED="1459512859205" TEXT="Historical reliability">
+<node CREATED="1459423118361" ID="ID_178461103" MODIFIED="1459526363058" TEXT="Historical reliability">
 <icon BUILTIN="full-1"/>
-<node CREATED="1459423126547" ID="ID_1054475705" MODIFIED="1459431466880" TEXT="questioned">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459423126547" ID="ID_1054475705" MODIFIED="1459526363058" TEXT="questioned">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459423149109" ID="ID_916798747" MODIFIED="1459431466880" TEXT="gospls are revelation of the Person, teaching and work of Christ">
+<node CREATED="1459423149109" ID="ID_916798747" MODIFIED="1459526363058" TEXT="gospls are revelation of the Person, teaching and work of Christ">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node CREATED="1459423228392" ID="ID_1058097920" MODIFIED="1459431466879" TEXT="Person of Christ">
+<node CREATED="1459423228392" ID="ID_1058097920" MODIFIED="1459526363057" TEXT="Person of Christ">
 <icon BUILTIN="full-1"/>
-<node CREATED="1459423210838" ID="ID_747538113" MODIFIED="1459512859205" TEXT="suffering servant - Is 52:!3-53-12">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459423210838" ID="ID_747538113" MODIFIED="1459526363057" TEXT="suffering servant - Is 52:!3-53-12">
 <icon BUILTIN="full-1"/>
-<node CREATED="1459423293948" ID="ID_1159910782" MODIFIED="1459431466879" TEXT="c.f">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459423293948" ID="ID_1159910782" MODIFIED="1459526363057" TEXT="c.f">
 <icon BUILTIN="full-1"/>
-<node CREATED="1459423302526" ID="ID_453807787" MODIFIED="1459431466878" TEXT="Mt King">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459423302526" ID="ID_453807787" MODIFIED="1459526363056" TEXT="Mt King">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459423308582" ID="ID_108543897" MODIFIED="1459431466878" TEXT="Lk Man">
+<node CREATED="1459423308582" ID="ID_108543897" MODIFIED="1459526363056" TEXT="Lk Man">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459423313863" ID="ID_63239468" MODIFIED="1459431466878" TEXT="Jn S of G">
+<node CREATED="1459423313863" ID="ID_63239468" MODIFIED="1459526363056" TEXT="Jn S of G">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node CREATED="1459423354620" ID="ID_135023130" MODIFIED="1459431466877" TEXT="S of man 14 occurances">
+<node CREATED="1459423354620" ID="ID_135023130" MODIFIED="1459526363055" TEXT="S of man 14 occurances">
 <icon BUILTIN="full-1"/>
-<node CREATED="1459423379487" ID="ID_1980313606" MODIFIED="1459431466877" TEXT="all to be interpreted in these terms">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459423379487" ID="ID_1980313606" MODIFIED="1459526363055" TEXT="all to be interpreted in these terms">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node CREATED="1459423421639" ID="ID_1274569455" MODIFIED="1459431466877" TEXT="ministry authenticated by mighty works">
+<node CREATED="1459423421639" ID="ID_1274569455" MODIFIED="1459526363054" TEXT="ministry authenticated by mighty works">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459423447244" ID="ID_1347361807" MODIFIED="1459431466876" TEXT="devine attestation at baptism and transfiguration">
+<node CREATED="1459423447244" ID="ID_1347361807" MODIFIED="1459526363054" TEXT="devine attestation at baptism and transfiguration">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node CREATED="1459423577444" ID="ID_2749510" MODIFIED="1459512859205" TEXT="Messiahship">
+<node CREATED="1459423577444" ID="ID_2749510" MODIFIED="1459526363054" TEXT="Messiahship">
 <icon BUILTIN="full-1"/>
-<node CREATED="1459423548942" ID="ID_1166026389" MODIFIED="1459431466875" TEXT="carefuly guarded secret">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459423548942" ID="ID_1166026389" MODIFIED="1459526363053" TEXT="carefuly guarded secret">
 <icon BUILTIN="full-1"/>
-<node CREATED="1459423621552" ID="ID_499925962" MODIFIED="1459431466875" TEXT="until confession of Peter - 8:30">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459423621552" ID="ID_499925962" MODIFIED="1459526363053" TEXT="until confession of Peter - 8:30">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459423640714" ID="ID_1684382152" MODIFIED="1459431466874" TEXT="to avoid dangers of national and materialistic conceptions of ittitl">
+<node CREATED="1459423640714" ID="ID_1684382152" MODIFIED="1459526363053" TEXT="to avoid dangers of national and materialistic conceptions of ittitl">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459423708479" ID="ID_292987933" MODIFIED="1459431466874" TEXT="secure for it an ethical as well as apocalyptic content">
+<node CREATED="1459423708479" ID="ID_292987933" MODIFIED="1459526363052" TEXT="secure for it an ethical as well as apocalyptic content">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node CREATED="1459423787985" ID="ID_158199701" MODIFIED="1459431466874" TEXT="Christ ony 7 times">
+<node CREATED="1459423787985" ID="ID_158199701" MODIFIED="1459526363052" TEXT="Christ ony 7 times">
 <icon BUILTIN="full-1"/>
-<node CREATED="1459423797419" ID="ID_1398316968" MODIFIED="1459431466873" TEXT="neve of himself">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459423797419" ID="ID_1398316968" MODIFIED="1459526363052" TEXT="neve of himself">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
 </node>
 </node>
-<node CREATED="1459423822025" ID="ID_1561508268" MODIFIED="1459431466873" TEXT="Work of Christ">
+<node CREATED="1459423822025" ID="ID_1561508268" MODIFIED="1459526363051" TEXT="Work of Christ">
 <icon BUILTIN="full-1"/>
-<node CREATED="1459423960600" ID="ID_1884726709" MODIFIED="1459431466872" TEXT="Two">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459423960600" ID="ID_1884726709" MODIFIED="1459526363051" TEXT="Two">
 <icon BUILTIN="full-1"/>
-<node CREATED="1459423839173" ID="ID_1454340916" MODIFIED="1459431466872" TEXT="ransom for many - 10:45">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459423839173" ID="ID_1454340916" MODIFIED="1459526363051" TEXT="ransom for many - 10:45">
 <icon BUILTIN="full-1"/>
-<node CREATED="1459423886901" ID="ID_1251342785" MODIFIED="1459431466871" TEXT="effects deliverance from sin and judgement">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459423886901" ID="ID_1251342785" MODIFIED="1459526363050" TEXT="effects deliverance from sin and judgement">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node CREATED="1459423859685" ID="ID_1527200378" MODIFIED="1459431466871" TEXT="blood of teh covenant 14:24">
+<node CREATED="1459423859685" ID="ID_1527200378" MODIFIED="1459526363049" TEXT="blood of teh covenant 14:24">
 <icon BUILTIN="full-1"/>
-<node CREATED="1459423909995" ID="ID_80465549" MODIFIED="1459519052036" TEXT="covenant relationship |.| God and man">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459423909995" ID="ID_80465549" MODIFIED="1459526363049" TEXT="covenant relationship |.| God and man">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
 </node>
-<node CREATED="1459423979723" ID="ID_129709349" MODIFIED="1459431466870" TEXT="not worked out into full doctrine">
+<node CREATED="1459423979723" ID="ID_129709349" MODIFIED="1459526363049" TEXT="not worked out into full doctrine">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459424008783" ID="ID_455022250" MODIFIED="1459512859205" TEXT="Synopics all mention 3 ocassions when disciples were told of approachign passion">
+<node CREATED="1459424008783" ID="ID_455022250" MODIFIED="1459526363048" TEXT="Synopics all mention 3 ocassions when disciples were told of approachign passion">
 <icon BUILTIN="full-1"/>
-<node CREATED="1459424045202" ID="ID_1732010615" MODIFIED="1459431466869" TEXT="Mk especially notes varying attitudes - 8:31f; 9:31f; 10:32">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459424045202" ID="ID_1732010615" MODIFIED="1459526363048" TEXT="Mk especially notes varying attitudes - 8:31f; 9:31f; 10:32">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
 </node>
-<node CREATED="1459424101593" ID="ID_426128574" MODIFIED="1459431466869" TEXT="Eschatology">
+<node CREATED="1459424101593" ID="ID_426128574" MODIFIED="1459526363048" TEXT="Eschatology">
 <icon BUILTIN="full-1"/>
-<node CREATED="1459424122251" ID="ID_669379122" MODIFIED="1459431466868" TEXT="two">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459424122251" ID="ID_669379122" MODIFIED="1459526363047" TEXT="two">
 <icon BUILTIN="full-1"/>
-<node CREATED="1459424124260" ID="ID_1382394149" MODIFIED="1459431466868" TEXT="8:38-91">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459424124260" ID="ID_1382394149" MODIFIED="1459526363047" TEXT="8:38-91">
 <icon BUILTIN="full-1"/>
-<node CREATED="1459424132187" ID="ID_654419273" MODIFIED="1459431466868" TEXT="AD 70 destruction of Jer.">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459424132187" ID="ID_654419273" MODIFIED="1459526363047" TEXT="AD 70 destruction of Jer.">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node CREATED="1459424143193" ID="ID_1297643657" MODIFIED="1459431466867" TEXT="13:1-37">
+<node CREATED="1459424143193" ID="ID_1297643657" MODIFIED="1459526363046" TEXT="13:1-37">
 <icon BUILTIN="full-1"/>
-<node CREATED="1459424153073" ID="ID_1392545321" MODIFIED="1459431466867" TEXT="his personal return and glory">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459424153073" ID="ID_1392545321" MODIFIED="1459526363046" TEXT="his personal return and glory">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
 </node>
-<node CREATED="1459424188175" ID="ID_1680151637" MODIFIED="1459512859221" TEXT="view of Kingdom is primarily eschatological">
+<node CREATED="1459424188175" ID="ID_1680151637" MODIFIED="1459526363046" TEXT="view of Kingdom is primarily eschatological">
 <icon BUILTIN="full-1"/>
-<node CREATED="1459424225569" ID="ID_262585260" MODIFIED="1459431466865" TEXT="kingly rule/sovereignty of God">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459424225569" ID="ID_262585260" MODIFIED="1459526363045" TEXT="kingly rule/sovereignty of God">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459424246502" ID="ID_1689245887" MODIFIED="1459431466865" TEXT="realm of community which may be entered - 9:47; 10:23">
+<node CREATED="1459424246502" ID="ID_1689245887" MODIFIED="1459526363045" TEXT="realm of community which may be entered - 9:47; 10:23">
 <icon BUILTIN="full-1"/>
-<node CREATED="1459424399591" ID="ID_209804744" MODIFIED="1459431466865" TEXT="some definitely future consumation - 14:25; 15:43">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459424399591" ID="ID_209804744" MODIFIED="1459526363044" TEXT="some definitely future consumation - 14:25; 15:43">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
 </node>
 </node>
-<node CREATED="1459424442490" ID="ID_915487724" MODIFIED="1459431466864" TEXT="Outline">
+<node CREATED="1459424442490" ID="ID_915487724" MODIFIED="1459526363044" TEXT="Outline">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
 </node>
@@ -2236,7 +2467,8 @@
 <node CREATED="1459406588855" ID="ID_792459977" MODIFIED="1459406639105" TEXT="c.f perhaps Mark&apos;s community havng emphasis on suffering and pain before (take up cross) before glory"/>
 </node>
 <node CREATED="1459435092904" ID="ID_94307982" MODIFIED="1459500563207" POSITION="left" TEXT="understanding">
-<node CREATED="1459434315912" ID="ID_1816416378" MODIFIED="1459500765632" TEXT="person">
+<node CREATED="1459434315912" FOLDED="true" ID="ID_1816416378" MODIFIED="1459531152174" TEXT="person">
+<icon BUILTIN="button_cancel"/>
 <node CREATED="1459370359422" FOLDED="true" ID="ID_1956016112" MODIFIED="1459515563773" TEXT="Mk has most human J. p108, last parag">
 <icon BUILTIN="full-4"/>
 <icon BUILTIN="button_cancel"/>
@@ -2283,7 +2515,8 @@
 <icon BUILTIN="full-4"/>
 </node>
 </node>
-<node CREATED="1459423210838" ID="ID_521511437" MODIFIED="1459500266271" TEXT="suffering servant - Is 52:!3-53-12">
+<node CREATED="1459423210838" FOLDED="true" ID="ID_521511437" MODIFIED="1459520659550" TEXT="suffering servant - Is 52:!3-53-12">
+<icon BUILTIN="full-1"/>
 <icon BUILTIN="full-1"/>
 <node CREATED="1459423293948" ID="ID_815949716" MODIFIED="1459464668497" TEXT="c.f">
 <icon BUILTIN="full-1"/>
@@ -2314,14 +2547,15 @@
 <node CREATED="1459417200141" ID="ID_1190563345" MODIFIED="1459431544957" TEXT="J is S of Man with all power and authority">
 <icon BUILTIN="full-2"/>
 </node>
-<node CREATED="1459417196441" ID="ID_534217529" MODIFIED="1459431544957" TEXT="J is S of G">
+<node CREATED="1459417196441" FOLDED="true" ID="ID_534217529" MODIFIED="1459520907382" TEXT="J is S of G">
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 <node CREATED="1459506324090" ID="ID_197953590" MODIFIED="1459506333918" TEXT="baptism voice"/>
 <node CREATED="1459370639528" ID="ID_1971352359" MODIFIED="1459431683182" TEXT="metamorphsed - 9:2-8">
 <icon BUILTIN="full-4"/>
 </node>
 </node>
-<node CREATED="1459370413249" ID="ID_1534225331" MODIFIED="1459516524865" TEXT="concerned with his status">
+<node CREATED="1459370413249" FOLDED="true" ID="ID_1534225331" MODIFIED="1459520985008" TEXT="concerned with his status">
 <icon BUILTIN="full-4"/>
 <icon BUILTIN="idea"/>
 <node CREATED="1459370434354" ID="ID_395572457" MODIFIED="1459431683182" TEXT="what his words and deeds reveal about who he was">
@@ -2581,7 +2815,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1459358751164" ID="ID_1214305952" MODIFIED="1459512724727" TEXT="Crossing boundaries">
+<node CREATED="1459358751164" FOLDED="true" ID="ID_1214305952" MODIFIED="1459523540380" TEXT="Crossing boundaries">
 <icon BUILTIN="full-6"/>
 <node CREATED="1459358767104" ID="ID_202112453" MODIFIED="1459431746229" TEXT="social and geog.">
 <icon BUILTIN="full-6"/>
@@ -2605,7 +2839,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1459358897210" ID="ID_1560813754" MODIFIED="1459512726350" TEXT="provokes opposition">
+<node CREATED="1459358897210" FOLDED="true" ID="ID_1560813754" MODIFIED="1459523538907" TEXT="provokes opposition">
 <icon BUILTIN="full-6"/>
 <node CREATED="1459358924924" ID="ID_1363785549" MODIFIED="1459431746229" TEXT="Groups">
 <icon BUILTIN="full-6"/>
@@ -2635,7 +2869,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1459358292478" ID="ID_74985888" MODIFIED="1459512728257" TEXT="enigma">
+<node CREATED="1459358292478" FOLDED="true" ID="ID_74985888" MODIFIED="1459523536769" TEXT="enigma">
 <icon BUILTIN="full-6"/>
 <node CREATED="1459358303056" ID="ID_1997448692" MODIFIED="1459431746229" TEXT="people fail to understand">
 <icon BUILTIN="full-6"/>
@@ -2670,7 +2904,7 @@
 <icon BUILTIN="full-6"/>
 </node>
 </node>
-<node CREATED="1459323841702" ID="ID_1271783167" MODIFIED="1459512730397" TEXT="Messaianic secret">
+<node CREATED="1459323841702" FOLDED="true" ID="ID_1271783167" MODIFIED="1459523534334" TEXT="Messaianic secret">
 <icon BUILTIN="full-7"/>
 <node CREATED="1459323924854" ID="ID_1435471871" MODIFIED="1459512859252" TEXT="? no hiding but revealing">
 <icon BUILTIN="full-7"/>
@@ -2721,7 +2955,7 @@
 <icon BUILTIN="full-6"/>
 </node>
 </node>
-<node CREATED="1459356584666" ID="ID_1598332674" MODIFIED="1459458910104" TEXT="secrecy helps present J of Jewish-Christian trad as">
+<node CREATED="1459356584666" FOLDED="true" ID="ID_1598332674" MODIFIED="1459523546554" TEXT="secrecy helps present J of Jewish-Christian trad as">
 <icon BUILTIN="full-7"/>
 <node CREATED="1459356653407" ID="ID_398322623" MODIFIED="1459437582449" TEXT="more exalted but secretly revealed S of G.">
 <icon BUILTIN="full-7"/>
@@ -2731,14 +2965,127 @@
 </node>
 </node>
 </node>
-<node CREATED="1459434995563" ID="ID_2221622" MODIFIED="1459512942104" TEXT="work">
-<node CREATED="1459322012124" ID="ID_420209479" MODIFIED="1459513009316" TEXT="discipleship">
+<node CREATED="1459434995563" ID="ID_2221622" MODIFIED="1459525250950" TEXT="work">
+<node CREATED="1459421280533" ID="ID_226628706" MODIFIED="1459531136450" TEXT="speak of actrions and tachings">
+<icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459421299873" ID="ID_480072750" MODIFIED="1459431544941" TEXT="that present missoin and ministry">
+<icon BUILTIN="full-2"/>
+</node>
+</node>
+<node CREATED="1459404931630" FOLDED="true" ID="ID_1660152822" MODIFIED="1459531157630" TEXT="his own good news is 1:15">
+<icon BUILTIN="full-3"/>
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459404951489" ID="ID_1129495100" MODIFIED="1459431646431" TEXT="follow him to scaffold">
+<icon BUILTIN="full-3"/>
+</node>
+<node CREATED="1459404971420" ID="ID_1945942565" MODIFIED="1459431646431" TEXT="others left to make claims">
+<icon BUILTIN="full-3"/>
+</node>
+<node CREATED="1459404991924" ID="ID_435502342" MODIFIED="1459431646431" TEXT="his only claim is &quot;Son of Man&quot;">
+<icon BUILTIN="full-3"/>
+</node>
+</node>
+<node CREATED="1459523943257" ID="ID_1191528658" MODIFIED="1459541483884" TEXT="teach discipleship">
+<node CREATED="1459417273655" ID="ID_1207557142" MODIFIED="1459431544957" TEXT="J teachs on K of God &amp; God will continute call a people to himself">
+<icon BUILTIN="full-2"/>
+</node>
+<node CREATED="1459405148993" FOLDED="true" ID="ID_1116519784" MODIFIED="1459541561042" TEXT="Discipleship runs throughout">
+<icon BUILTIN="full-3"/>
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459416766228" ID="ID_1472623972" MODIFIED="1459431544957" TEXT="done by narrating identity and teaching of Jesus">
+<icon BUILTIN="full-2"/>
+</node>
+<node CREATED="1459416681716" ID="ID_1288203838" MODIFIED="1459540191852" TEXT="Theme">
+<icon BUILTIN="full-2"/>
+<node CREATED="1459416684904" ID="ID_1384761392" MODIFIED="1459442204693" TEXT="&quot;Present and defend Jesus universal call to discipleship&quot;">
+<icon BUILTIN="full-2"/>
+<node CREATED="1459416750920" ID="ID_493984553" MODIFIED="1459431544957" TEXT="Audience either for or against">
+<icon BUILTIN="full-2"/>
+</node>
+</node>
+<node CREATED="1459417273655" ID="ID_1530742037" MODIFIED="1459431544957" TEXT="J teachs on K of God &amp; God will continute call a people to himself">
+<icon BUILTIN="full-2"/>
+</node>
+<node CREATED="1459416801951" ID="ID_333871265" MODIFIED="1459431544957" TEXT="implies it is a relationship, not following a code of conduct">
+<icon BUILTIN="full-2"/>
+</node>
+<node CREATED="1459416910381" ID="ID_247618754" MODIFIED="1459431544957" TEXT="being prepared to face the kind of rejection he faces">
+<icon BUILTIN="full-2"/>
+</node>
+</node>
+<node CREATED="1459405198125" FOLDED="true" ID="ID_273255940" MODIFIED="1459538512971" TEXT="They are">
+<icon BUILTIN="full-3"/>
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459405164040" ID="ID_43819573" MODIFIED="1459537292975" TEXT="called">
+<icon BUILTIN="full-3"/>
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1459405169452" ID="ID_642620866" MODIFIED="1459537292975" TEXT="chosen">
+<icon BUILTIN="full-3"/>
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1459405172550" ID="ID_655740977" MODIFIED="1459537292974" TEXT="sent out">
+<icon BUILTIN="full-3"/>
+<icon BUILTIN="button_cancel"/>
+</node>
+</node>
+<node CREATED="1459417242441" ID="ID_70304190" MODIFIED="1459540185598" TEXT="J calls followers to imitate him">
+<icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459417252918" ID="ID_1897399093" MODIFIED="1459431544957" TEXT="service">
+<icon BUILTIN="full-2"/>
+</node>
+<node CREATED="1459417255802" ID="ID_235348174" MODIFIED="1459431544957" TEXT="self-denial">
+<icon BUILTIN="full-2"/>
+</node>
+<node CREATED="1459417261214" ID="ID_1697325366" MODIFIED="1459431544957" TEXT="suffering">
+<icon BUILTIN="full-2"/>
+</node>
+</node>
+<node CREATED="1459416835686" FOLDED="true" ID="ID_1814470194" MODIFIED="1459540179412" TEXT="Fellowship includes:">
+<icon BUILTIN="full-2"/>
+<icon BUILTIN="full-1"/>
+<node CREATED="1459416870165" ID="ID_1956701830" MODIFIED="1459431544957" TEXT="trusting him">
+<icon BUILTIN="full-2"/>
+</node>
+<node CREATED="1459416847222" ID="ID_1625674458" MODIFIED="1459431544957" TEXT="confessing him">
+<icon BUILTIN="full-2"/>
+</node>
+<node CREATED="1459416859696" ID="ID_1113594661" MODIFIED="1459431544957" TEXT="taking note of his conduct">
+<icon BUILTIN="full-2"/>
+</node>
+<node CREATED="1459416882879" ID="ID_1267453156" MODIFIED="1459535486477" TEXT="following his teaching">
+<icon BUILTIN="full-2"/>
+</node>
+<node CREATED="1459416889941" ID="ID_286343622" MODIFIED="1459535920906" TEXT="being shaped by the relationship with him">
+<icon BUILTIN="full-2"/>
+</node>
+</node>
+<node CREATED="1459405253741" FOLDED="true" ID="ID_1995547332" MODIFIED="1459540169621" TEXT="story, when not about J, is about disciples failure">
+<icon BUILTIN="full-3"/>
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459405304694" ID="ID_623591561" MODIFIED="1459431646431" TEXT="? an attack">
+<icon BUILTIN="full-3"/>
+</node>
+<node CREATED="1459405324050" ID="ID_166113189" MODIFIED="1459431646431" TEXT="? criticising group in his own community">
+<icon BUILTIN="full-3"/>
+</node>
+<node CREATED="1459405346490" ID="ID_677815725" MODIFIED="1459431646431" TEXT="more likely insistence that truth only revealed through cross and resurrection">
+<icon BUILTIN="full-3"/>
+</node>
+</node>
+<node CREATED="1459322012124" FOLDED="true" ID="ID_420209479" MODIFIED="1459540147966" TEXT="discipleship">
 <icon BUILTIN="full-7"/>
+<icon BUILTIN="button_cancel"/>
 <node CREATED="1459322035758" ID="ID_382571196" MODIFIED="1459431769409" TEXT="part 1">
 <icon BUILTIN="full-7"/>
 <node CREATED="1459322041403" ID="ID_42695935" MODIFIED="1459431769409" TEXT="called, chosen, sent">
 <icon BUILTIN="full-7"/>
 </node>
+</node>
+<node CREATED="1459405217498" ID="ID_442696956" MODIFIED="1459431646431" TEXT="much of part 2 teaching is about discipleship">
+<icon BUILTIN="full-3"/>
 </node>
 <node CREATED="1459322053242" ID="ID_1331899627" MODIFIED="1459431769409" TEXT="Part 2">
 <icon BUILTIN="full-7"/>
@@ -2753,70 +3100,27 @@
 </node>
 </node>
 </node>
-<node CREATED="1459405148993" ID="ID_1116519784" MODIFIED="1459512859299" TEXT="Discipleship runs throughout">
-<icon BUILTIN="full-3"/>
-<node CREATED="1459405198125" ID="ID_273255940" MODIFIED="1459431646431" TEXT="They are">
-<icon BUILTIN="full-3"/>
-<node CREATED="1459405164040" ID="ID_43819573" MODIFIED="1459431646431" TEXT="called">
-<icon BUILTIN="full-3"/>
+<node CREATED="1459371067951" ID="ID_738309967" MODIFIED="1459529667679" TEXT="character of disciples">
+<icon BUILTIN="full-4"/>
+<node CREATED="1459371076642" ID="ID_1207427633" MODIFIED="1459431683182" TEXT="as men called to follow J">
+<icon BUILTIN="full-4"/>
 </node>
-<node CREATED="1459405169452" ID="ID_642620866" MODIFIED="1459431646431" TEXT="chosen">
-<icon BUILTIN="full-3"/>
-</node>
-<node CREATED="1459405172550" ID="ID_655740977" MODIFIED="1459431646431" TEXT="sent out">
-<icon BUILTIN="full-3"/>
-</node>
-</node>
-<node CREATED="1459405217498" ID="ID_442696956" MODIFIED="1459431646431" TEXT="much of part 2 teaching is about discipleship">
-<icon BUILTIN="full-3"/>
-</node>
-<node CREATED="1459405253741" ID="ID_1995547332" MODIFIED="1459431646431" TEXT="story, when not about J, is about disciples failure">
-<icon BUILTIN="full-3"/>
-<node CREATED="1459405304694" ID="ID_623591561" MODIFIED="1459431646431" TEXT="? an attack">
-<icon BUILTIN="full-3"/>
-</node>
-<node CREATED="1459405324050" ID="ID_166113189" MODIFIED="1459431646431" TEXT="? criticising group in his own community">
-<icon BUILTIN="full-3"/>
-</node>
-<node CREATED="1459405346490" ID="ID_677815725" MODIFIED="1459431646431" TEXT="more likely insistence that truth only revealed through cross and resurrection">
-<icon BUILTIN="full-3"/>
+<node CREATED="1459371095310" ID="ID_1410829689" MODIFIED="1459431683182" TEXT="reader to ID with them">
+<icon BUILTIN="full-4"/>
 </node>
 </node>
 <node CREATED="1459405409617" ID="ID_1905644750" MODIFIED="1459431646431" TEXT="foil to readers who recognise">
 <icon BUILTIN="full-3"/>
 </node>
-<node CREATED="1459405420875" ID="ID_637045704" MODIFIED="1459431646431" TEXT="disciples fail">
+</node>
+<node CREATED="1459403939566" ID="ID_810773033" MODIFIED="1459541968889" TEXT="Good news">
 <icon BUILTIN="full-3"/>
-<node CREATED="1459405452723" ID="ID_718686972" MODIFIED="1459431646431" TEXT="to understand teaching">
+<node CREATED="1459403970190" FOLDED="true" ID="ID_277520369" MODIFIED="1459541980983" TEXT="disturbing">
 <icon BUILTIN="full-3"/>
-</node>
-<node CREATED="1459405482206" ID="ID_1420707551" MODIFIED="1459431646431" TEXT="to understand sig. of his divine authority">
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459403976496" ID="ID_426378724" MODIFIED="1459538634300" TEXT="salvation">
 <icon BUILTIN="full-3"/>
-</node>
-<node CREATED="1459405525356" ID="ID_921773371" MODIFIED="1459431646431" TEXT="bewlidered by his teachign of approaching death and res.">
-<icon BUILTIN="full-3"/>
-</node>
-</node>
-</node>
-<node CREATED="1459417242441" ID="ID_1111904500" MODIFIED="1459512859299" TEXT="J calls followers to imitate him">
-<icon BUILTIN="full-2"/>
-<node CREATED="1459417252918" ID="ID_1941259131" MODIFIED="1459431544957" TEXT="service">
-<icon BUILTIN="full-2"/>
-</node>
-<node CREATED="1459417255802" ID="ID_1970039948" MODIFIED="1459431544957" TEXT="self-denial">
-<icon BUILTIN="full-2"/>
-</node>
-<node CREATED="1459417261214" ID="ID_116890608" MODIFIED="1459431544957" TEXT="suffering">
-<icon BUILTIN="full-2"/>
-</node>
-</node>
-<node CREATED="1459403939566" ID="ID_810773033" MODIFIED="1459512859314" TEXT="Good news">
-<icon BUILTIN="full-3"/>
-<node CREATED="1459403970190" ID="ID_277520369" MODIFIED="1459431646416" TEXT="disturbing">
-<icon BUILTIN="full-3"/>
-<node CREATED="1459403976496" ID="ID_426378724" MODIFIED="1459431646416" TEXT="salvation">
-<icon BUILTIN="full-3"/>
-<node CREATED="1459403997791" ID="ID_1955187699" MODIFIED="1459431646416" TEXT="also destruction">
+<node CREATED="1459403997791" FOLDED="true" ID="ID_1955187699" MODIFIED="1459541974414" TEXT="also destruction">
 <icon BUILTIN="full-3"/>
 <node CREATED="1459404006923" ID="ID_1377296903" MODIFIED="1459431646416" TEXT="torn garments">
 <icon BUILTIN="full-3"/>
@@ -2835,21 +3139,22 @@
 <node CREATED="1459404100366" ID="ID_1307494568" MODIFIED="1459431646416" TEXT="Must be good news!">
 <icon BUILTIN="full-3"/>
 </node>
-<node CREATED="1459404118384" ID="ID_1307289465" MODIFIED="1459431646416" TEXT="Abandon everything">
+<node CREATED="1459404118384" ID="ID_1307289465" MODIFIED="1459541976548" TEXT="Abandon everything">
 <icon BUILTIN="full-3"/>
 <node CREATED="1459404132521" ID="ID_226954550" MODIFIED="1459431646416" TEXT="repaind 100 times">
 <icon BUILTIN="full-3"/>
 </node>
 </node>
-<node CREATED="1459404144500" ID="ID_1366371354" MODIFIED="1459431646416" TEXT="lose their lives">
+<node CREATED="1459404144500" FOLDED="true" ID="ID_1366371354" MODIFIED="1459536491611" TEXT="lose their lives">
 <icon BUILTIN="full-3"/>
 <node CREATED="1459404152961" ID="ID_915800073" MODIFIED="1459431646416" TEXT="will save them">
 <icon BUILTIN="full-3"/>
 </node>
 </node>
 </node>
-<node CREATED="1459404174115" ID="ID_1219231880" MODIFIED="1459431646416" TEXT="radical challenge">
+<node CREATED="1459404174115" FOLDED="true" ID="ID_1219231880" MODIFIED="1459540123291" TEXT="radical challenge">
 <icon BUILTIN="full-3"/>
+<icon BUILTIN="button_cancel"/>
 <node CREATED="1459404187506" ID="ID_476955382" MODIFIED="1459431646416" TEXT="abandon old way of life">
 <icon BUILTIN="full-3"/>
 </node>
@@ -2858,7 +3163,7 @@
 </node>
 <node CREATED="1459404218989" ID="ID_703413067" MODIFIED="1459431646416" TEXT="the belong to new way of life">
 <icon BUILTIN="full-3"/>
-<node CREATED="1459404262109" ID="ID_887356477" MODIFIED="1459431646416" TEXT="symbolised by miracles and abunant harvests">
+<node CREATED="1459404262109" ID="ID_887356477" MODIFIED="1459529725322" TEXT="symbolised by miracles and abundant harvests">
 <icon BUILTIN="full-3"/>
 </node>
 </node>
@@ -2873,28 +3178,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1459421280533" ID="ID_226628706" MODIFIED="1459443024824" TEXT="speak of actrions and tachings">
-<icon BUILTIN="full-2"/>
-<node CREATED="1459421299873" ID="ID_480072750" MODIFIED="1459431544941" TEXT="that present missoin and ministry">
-<icon BUILTIN="full-2"/>
-</node>
-</node>
-<node CREATED="1459417273655" ID="ID_1207557142" MODIFIED="1459431544957" TEXT="J teachs on K of God &amp; God will continute call a people to himself">
-<icon BUILTIN="full-2"/>
-</node>
-<node CREATED="1459404931630" ID="ID_1660152822" MODIFIED="1459457014157" TEXT="his own good news is 1:15">
-<icon BUILTIN="full-3"/>
-<node CREATED="1459404951489" ID="ID_1129495100" MODIFIED="1459431646431" TEXT="follow him to scaffold">
-<icon BUILTIN="full-3"/>
-</node>
-<node CREATED="1459404971420" ID="ID_1945942565" MODIFIED="1459431646431" TEXT="others left to make claims">
-<icon BUILTIN="full-3"/>
-</node>
-<node CREATED="1459404991924" ID="ID_435502342" MODIFIED="1459431646431" TEXT="his only claim is &quot;Son of Man&quot;">
-<icon BUILTIN="full-3"/>
-</node>
-</node>
-<node CREATED="1459358546408" ID="ID_259753059" MODIFIED="1459512859330" TEXT="portrayal of disciples">
+<node CREATED="1459358546408" ID="ID_259753059" MODIFIED="1459541874209" TEXT="portrayal of disciples">
 <icon BUILTIN="full-6"/>
 <node CREATED="1459358557171" ID="ID_859928645" MODIFIED="1459431746229" TEXT="initially +ve">
 <icon BUILTIN="full-6"/>
@@ -2911,7 +3195,7 @@
 <node CREATED="1459358624349" ID="ID_901302027" MODIFIED="1459431746229" TEXT="? not final response - 13:9-16; 16:7">
 <icon BUILTIN="full-6"/>
 </node>
-<node CREATED="1459358730852" ID="ID_419627645" MODIFIED="1459431746229" TEXT="Why?">
+<node CREATED="1459358730852" ID="ID_419627645" MODIFIED="1459525325859" TEXT="Why?">
 <icon BUILTIN="full-6"/>
 <node CREATED="1459358660485" ID="ID_584396580" MODIFIED="1459431746229" TEXT="? to correct misguided Christologies">
 <icon BUILTIN="full-6"/>
@@ -2924,18 +3208,24 @@
 </node>
 </node>
 </node>
-<node CREATED="1459424008783" ID="ID_1981597589" MODIFIED="1459443693312" TEXT="Synopics all mention 3 ocassions when disciples were told of approachign passion">
-<icon BUILTIN="full-1"/>
-<node CREATED="1459424045202" ID="ID_587472678" MODIFIED="1459431466869" TEXT="Mk especially notes varying attitudes - 8:31f; 9:31f; 10:32">
-<icon BUILTIN="full-1"/>
+<node CREATED="1459405420875" ID="ID_637045704" MODIFIED="1459541592597" TEXT="disciples fail">
+<icon BUILTIN="full-3"/>
+<node CREATED="1459405452723" ID="ID_718686972" MODIFIED="1459431646431" TEXT="to understand teaching">
+<icon BUILTIN="full-3"/>
+</node>
+<node CREATED="1459405482206" ID="ID_1420707551" MODIFIED="1459431646431" TEXT="to understand sig. of his divine authority">
+<icon BUILTIN="full-3"/>
+</node>
+<node CREATED="1459405525356" ID="ID_921773371" MODIFIED="1459431646431" TEXT="bewlidered by his teachign of approaching death and res.">
+<icon BUILTIN="full-3"/>
 </node>
 </node>
-<node CREATED="1459405569275" ID="ID_159460497" MODIFIED="1459512859330" TEXT="Others fail worse">
+<node CREATED="1459405569275" ID="ID_159460497" MODIFIED="1459541516806" TEXT="Others fail worse">
 <icon BUILTIN="full-3"/>
 <node CREATED="1459405583692" ID="ID_146437068" MODIFIED="1459431646431" TEXT="it&apos;s a story of misunderstanding, opposition, incomprehension and rejection ">
 <icon BUILTIN="full-3"/>
 </node>
-<node CREATED="1459405619483" ID="ID_1711125557" MODIFIED="1459431646431" TEXT="authorities">
+<node CREATED="1459405619483" ID="ID_1711125557" MODIFIED="1459541868533" TEXT="authorities">
 <icon BUILTIN="full-3"/>
 <node CREATED="1459405630304" ID="ID_606297839" MODIFIED="1459431646431" TEXT="conflict stories - 2:1-3:6">
 <icon BUILTIN="full-3"/>
@@ -2953,7 +3243,7 @@
 <node CREATED="1459405832876" ID="ID_89060396" MODIFIED="1459431646431" TEXT="...">
 <icon BUILTIN="full-3"/>
 </node>
-<node CREATED="1459405839566" ID="ID_1155422283" MODIFIED="1459431646431" TEXT="6:1-6 onwards, emphasises">
+<node CREATED="1459405839566" ID="ID_1155422283" MODIFIED="1459541996300" TEXT="6:1-6 onwards, emphasises">
 <icon BUILTIN="full-3"/>
 <node CREATED="1459405908564" ID="ID_394835646" MODIFIED="1459431646431" TEXT="hostility of authorities whio reject his authority">
 <icon BUILTIN="full-3"/>
@@ -2966,52 +3256,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1459371067951" ID="ID_738309967" MODIFIED="1459440367344" TEXT="character of disciples">
-<icon BUILTIN="full-4"/>
-<node CREATED="1459371076642" ID="ID_1207427633" MODIFIED="1459431683182" TEXT="as men called to follow J">
-<icon BUILTIN="full-4"/>
-</node>
-<node CREATED="1459371095310" ID="ID_1410829689" MODIFIED="1459431683182" TEXT="reader to ID with them">
-<icon BUILTIN="full-4"/>
-</node>
-</node>
-<node CREATED="1459359016771" ID="ID_898154785" MODIFIED="1459431746213" TEXT="Marginal characters">
-<icon BUILTIN="full-6"/>
-<node CREATED="1459359021730" ID="ID_392458768" MODIFIED="1459431746213" TEXT="others understand">
-<icon BUILTIN="full-6"/>
-</node>
-</node>
-<node CREATED="1459417223304" ID="ID_910186889" MODIFIED="1459431544957" TEXT="J as S of M must suffer">
-<icon BUILTIN="full-2"/>
-</node>
-<node CREATED="1459423822025" ID="ID_967883787" MODIFIED="1459512859346" TEXT="Work of Christ">
-<icon BUILTIN="full-1"/>
-<node CREATED="1459423960600" ID="ID_1282008008" MODIFIED="1459431466872" TEXT="Two">
-<icon BUILTIN="full-1"/>
-<node CREATED="1459423839173" ID="ID_578698656" MODIFIED="1459431466872" TEXT="ransom for many - 10:45">
-<icon BUILTIN="full-1"/>
-<node CREATED="1459423886901" ID="ID_1335595969" MODIFIED="1459431466871" TEXT="effects deliverance from sin and judgement">
-<icon BUILTIN="full-1"/>
-</node>
-</node>
-<node CREATED="1459423859685" ID="ID_620563432" MODIFIED="1459431466871" TEXT="blood of teh covenant 14:24">
-<icon BUILTIN="full-1"/>
-<node CREATED="1459423909995" ID="ID_37431224" MODIFIED="1459431466870" TEXT="cpvenant relationship |.| God and man">
-<icon BUILTIN="full-1"/>
-</node>
-</node>
-</node>
-<node CREATED="1459423979723" ID="ID_575487614" MODIFIED="1459431466870" TEXT="not worked out into full doctrine">
-<icon BUILTIN="full-1"/>
-</node>
-<node CREATED="1459424008783" ID="ID_1874704353" MODIFIED="1459512859346" TEXT="Synopics all mention 3 ocassions when disciples were told of approachign passion">
-<icon BUILTIN="full-1"/>
-<node CREATED="1459424045202" ID="ID_1023135652" MODIFIED="1459431466869" TEXT="Mk especially notes varying attitudes - 8:31f; 9:31f; 10:32">
-<icon BUILTIN="full-1"/>
-</node>
-</node>
-</node>
-<node CREATED="1459424188175" ID="ID_1762145892" MODIFIED="1459499976244" TEXT="view of Kingdom is primarily eschatological">
+<node CREATED="1459424188175" FOLDED="true" ID="ID_1762145892" MODIFIED="1459540104727" TEXT="view of Kingdom is primarily eschatological">
 <icon BUILTIN="full-1"/>
 <node CREATED="1459424225569" ID="ID_524188894" MODIFIED="1459431466865" TEXT="kingly rule/sovereignty of God">
 <icon BUILTIN="full-1"/>
@@ -3022,53 +3267,69 @@
 <icon BUILTIN="full-1"/>
 </node>
 </node>
-</node>
-<node CREATED="1459322187439" ID="ID_1221375313" MODIFIED="1459512859346" TEXT="Why did Jesus die?">
-<icon BUILTIN="full-7"/>
-<node CREATED="1459322196484" ID="ID_1251323039" MODIFIED="1459431769409" TEXT="1. Judas">
-<icon BUILTIN="full-7"/>
-</node>
-<node CREATED="1459322218404" ID="ID_669189842" MODIFIED="1459439772566" TEXT="2. God&apos;s will and J&apos;s obedience to it">
-<icon BUILTIN="full-7"/>
-<node CREATED="1459322381312" ID="ID_373450717" MODIFIED="1459431769409" TEXT="&quot;ransom for many&quot;">
-<icon BUILTIN="full-7"/>
-</node>
-<node CREATED="1459322391127" ID="ID_8120916" MODIFIED="1459431769409" TEXT="not atonement">
-<icon BUILTIN="full-7"/>
-</node>
-<node CREATED="1459322401241" ID="ID_11202742" MODIFIED="1459431769409" TEXT="creates a &quot;new people&quot; who will inherit the kingdom">
-<icon BUILTIN="full-7"/>
+<node CREATED="1459359016771" ID="ID_898154785" MODIFIED="1459431746213" TEXT="Marginal characters">
+<icon BUILTIN="full-6"/>
+<node CREATED="1459359021730" ID="ID_392458768" MODIFIED="1459431746213" TEXT="others understand">
+<icon BUILTIN="full-6"/>
 </node>
 </node>
-<node CREATED="1459322437048" ID="ID_633639578" MODIFIED="1459439865698" TEXT="3. Resurrection">
-<icon BUILTIN="full-7"/>
-<node CREATED="1459322452628" ID="ID_1245924051" MODIFIED="1459439790236" TEXT="J. not separated from redeemed community">
-<icon BUILTIN="full-7"/>
 </node>
-<node CREATED="1459322482102" ID="ID_428668602" MODIFIED="1459439857311" TEXT="due to obedience">
+<node CREATED="1459321870367" ID="ID_1922182017" MODIFIED="1459435874863" TEXT="nobody in the story seems able to respond to">
+<icon BUILTIN="full-7"/>
+<node CREATED="1459321886304" ID="ID_1295259107" MODIFIED="1459431769409" TEXT="despite evidence of rewards">
+<icon BUILTIN="full-7"/>
+<node CREATED="1459530521876" ID="ID_1465297490" MODIFIED="1459530523275" TEXT="healing"/>
+<node CREATED="1459530525240" ID="ID_1271189245" MODIFIED="1459530527825" TEXT="restoration"/>
+<node CREATED="1459530528318" ID="ID_1748965505" MODIFIED="1459530532057" TEXT="forgiveness"/>
+</node>
+</node>
+<node CREATED="1459321762329" FOLDED="true" ID="ID_7323027" MODIFIED="1459542057353" TEXT="hard to confront &amp; embrace">
+<icon BUILTIN="full-7"/>
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459321777710" ID="ID_988883625" MODIFIED="1459435859381" TEXT="radical challenge">
 <icon BUILTIN="full-7"/>
 </node>
-<node CREATED="1459322499607" ID="ID_249662567" MODIFIED="1459439828844" TEXT="condemns the Jews">
+<node CREATED="1459321783403" FOLDED="true" ID="ID_89490170" MODIFIED="1459540039043" TEXT="must abandon old life">
 <icon BUILTIN="full-7"/>
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459321814949" ID="ID_622007655" MODIFIED="1459539836080" TEXT="to do will of God">
+<icon BUILTIN="full-7"/>
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1459321819637" ID="ID_1784392005" MODIFIED="1459539836079" TEXT="to join community">
+<icon BUILTIN="full-7"/>
+<icon BUILTIN="button_cancel"/>
+</node>
+</node>
+<node CREATED="1459321835242" FOLDED="true" ID="ID_328108385" MODIFIED="1459539818126" TEXT="lose life to gain it &amp; follow J. to cross">
+<icon BUILTIN="full-7"/>
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459530278598" ID="ID_1153956611" MODIFIED="1459530290144" TEXT="Mark 8:35">
+<node CREATED="1459530471956" ID="ID_209769186" MODIFIED="1459530473040" TEXT=" For whoever would save his life will lose it, but whoever loses his life for my sake and the gospel&apos;s will save it. "/>
+</node>
+<node CREATED="1459530396702" ID="ID_1979191629" MODIFIED="1459530403126" TEXT="8:34-38">
+<node CREATED="1459530455698" ID="ID_113744622" MODIFIED="1459530457529" TEXT="34 And calling the crowd to him with his disciples, he said to them, &#x201c;If anyone would come after me, let him deny himself and take up his cross and follow me."/>
 </node>
 </node>
 </node>
-<node CREATED="1459417323063" ID="ID_454602566" MODIFIED="1459512951350" TEXT="Salvation">
-<icon BUILTIN="full-2"/>
-<node CREATED="1459417327383" ID="ID_1545412084" MODIFIED="1459431544957" TEXT="coms to bring Sal.">
-<icon BUILTIN="full-2"/>
 </node>
-<node CREATED="1459417342710" ID="ID_479749654" MODIFIED="1459431544957" TEXT="as prohpesied in OT">
-<icon BUILTIN="full-2"/>
-</node>
-<node CREATED="1459417354652" ID="ID_1387839741" MODIFIED="1459431544957" TEXT="triumph over sin &amp; satan">
-<icon BUILTIN="full-2"/>
-</node>
-<node CREATED="1459417376605" ID="ID_379540889" MODIFIED="1459431544941" TEXT="fulfilment with crucifixion &amp; resurrection">
-<icon BUILTIN="full-2"/>
+<node CREATED="1459523974306" FOLDED="true" ID="ID_1405543562" MODIFIED="1459541817803" TEXT="suffer and die">
+<node CREATED="1459424008783" ID="ID_1874704353" MODIFIED="1459531618387" TEXT="Synopics all mention 3 occassions when disciples were told of approaching passion">
+<icon BUILTIN="full-1"/>
+<node CREATED="1459424045202" ID="ID_1023135652" MODIFIED="1459431466869" TEXT="Mk especially notes varying attitudes - 8:31f; 9:31f; 10:32">
+<icon BUILTIN="full-1"/>
 </node>
 </node>
-<node CREATED="1459406019319" ID="ID_580741492" MODIFIED="1459512859377" TEXT="story dominated by his death">
+<node CREATED="1459357779899" ID="ID_76558798" MODIFIED="1459540084521" TEXT="3 predictions highlight necessity of suffering">
+<icon BUILTIN="full-6"/>
+<node CREATED="1459357813168" ID="ID_735139942" MODIFIED="1459431746229" TEXT="8:31, 9:31, 10:33-4">
+<icon BUILTIN="full-6"/>
+</node>
+<node CREATED="1459357835921" ID="ID_1952209141" MODIFIED="1459431746229" TEXT="disciples cannot recieve this">
+<icon BUILTIN="full-6"/>
+</node>
+</node>
+<node CREATED="1459406019319" FOLDED="true" ID="ID_580741492" MODIFIED="1459540586701" TEXT="story dominated by his death">
 <icon BUILTIN="full-3"/>
 <node CREATED="1459406043461" ID="ID_1116719207" MODIFIED="1459431646431" TEXT="why?">
 <icon BUILTIN="full-3"/>
@@ -3111,7 +3372,7 @@
 </node>
 <node CREATED="1459406750682" ID="ID_1359264818" MODIFIED="1459431646431" TEXT="deals with q. &quot;Why did he die&quot;?">
 <icon BUILTIN="full-3"/>
-<node CREATED="1459406772353" ID="ID_269315512" MODIFIED="1459431646431" TEXT="answers at various levels">
+<node CREATED="1459406772353" ID="ID_269315512" MODIFIED="1459527614505" TEXT="answers at various levels">
 <icon BUILTIN="full-3"/>
 <node CREATED="1459406785988" ID="ID_931690780" MODIFIED="1459431646431" TEXT="will of God">
 <icon BUILTIN="full-3"/>
@@ -3149,34 +3410,26 @@
 </node>
 </node>
 </node>
-<node CREATED="1459371135708" ID="ID_405679152" MODIFIED="1459512859377" TEXT="The plot">
-<icon BUILTIN="full-4"/>
-<node CREATED="1459371228880" ID="ID_160258844" MODIFIED="1459431683182" TEXT="recgnised climax">
-<icon BUILTIN="full-4"/>
-<node CREATED="1459371236333" ID="ID_1467001673" MODIFIED="1459431683182" TEXT="D &amp; res">
-<icon BUILTIN="full-4"/>
+<node CREATED="1459417242441" FOLDED="true" ID="ID_1111904500" MODIFIED="1459541023414" TEXT="J calls followers to imitate him">
+<icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459417252918" ID="ID_1941259131" MODIFIED="1459541021216" TEXT="service">
+<icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1459371250122" ID="ID_18395512" MODIFIED="1459431683182" TEXT="narrator leads implied reader">
-<icon BUILTIN="full-4"/>
-<node CREATED="1459371260089" ID="ID_863460762" MODIFIED="1459431683182" TEXT="hints; 2:19-20; 3:6">
-<icon BUILTIN="full-4"/>
+<node CREATED="1459417255802" ID="ID_1970039948" MODIFIED="1459541021216" TEXT="self-denial">
+<icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-</node>
-</node>
-</node>
-<node CREATED="1459366240256" ID="ID_796325811" MODIFIED="1459431732378" TEXT="Resurrection appearances">
-<icon BUILTIN="full-5"/>
-</node>
-<node CREATED="1459366195378" ID="ID_1160821313" MODIFIED="1459441982739" TEXT="Death">
-<icon BUILTIN="full-5"/>
-<node CREATED="1459365472580" ID="ID_448984643" MODIFIED="1459441987301" TEXT="depths of human despare  c.f. others p136">
-<icon BUILTIN="full-5"/>
-<node CREATED="1459365593632" ID="ID_1102067118" MODIFIED="1459431732378" TEXT="why have you forsaken me">
-<icon BUILTIN="full-5"/>
+<node CREATED="1459417261214" ID="ID_116890608" MODIFIED="1459541021215" TEXT="suffering">
+<icon BUILTIN="full-2"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
+<node CREATED="1459417223304" ID="ID_910186889" MODIFIED="1459431544957" TEXT="J as S of M must suffer">
+<icon BUILTIN="full-2"/>
 </node>
-<node CREATED="1459356690423" ID="ID_1917467090" MODIFIED="1459500661129" TEXT="shift from early apocalyptic trad">
+<node CREATED="1459356690423" FOLDED="true" ID="ID_1917467090" MODIFIED="1459541428099" TEXT="shift from early apocalyptic trad">
 <icon BUILTIN="full-7"/>
 <node CREATED="1459437947319" ID="ID_350756558" MODIFIED="1459437950915" TEXT="with">
 <node CREATED="1459356719644" ID="ID_795753160" MODIFIED="1459431769409" TEXT="role as eschatological prophet">
@@ -3191,21 +3444,134 @@
 </node>
 <node CREATED="1459437963123" ID="ID_1004974373" MODIFIED="1459438004827" TEXT="toJ whose death &amp; suffering is key to salvation "/>
 </node>
-<node CREATED="1459357779899" ID="ID_76558798" MODIFIED="1459431746229" TEXT="3 predictions highlight necessity of suffering">
-<icon BUILTIN="full-6"/>
-<node CREATED="1459357813168" ID="ID_735139942" MODIFIED="1459431746229" TEXT="8:31, 9:31, 10:33-4">
-<icon BUILTIN="full-6"/>
+<node CREATED="1459322187439" FOLDED="true" ID="ID_1221375313" MODIFIED="1459524182681" TEXT="Why did Jesus die?">
+<icon BUILTIN="full-7"/>
+<node CREATED="1459322196484" ID="ID_1251323039" MODIFIED="1459431769409" TEXT="1. Judas">
+<icon BUILTIN="full-7"/>
 </node>
-<node CREATED="1459357835921" ID="ID_1952209141" MODIFIED="1459431746229" TEXT="disciples cannot recieve this">
-<icon BUILTIN="full-6"/>
+<node CREATED="1459322218404" ID="ID_669189842" MODIFIED="1459439772566" TEXT="2. God&apos;s will and J&apos;s obedience to it">
+<icon BUILTIN="full-7"/>
+<node CREATED="1459322381312" ID="ID_373450717" MODIFIED="1459431769409" TEXT="&quot;ransom for many&quot;">
+<icon BUILTIN="full-7"/>
+</node>
+<node CREATED="1459322391127" ID="ID_8120916" MODIFIED="1459431769409" TEXT="not atonement">
+<icon BUILTIN="full-7"/>
+</node>
+<node CREATED="1459322401241" ID="ID_11202742" MODIFIED="1459431769409" TEXT="creates a &quot;new people&quot; who will inherit the kingdom">
+<icon BUILTIN="full-7"/>
+</node>
+</node>
+<node CREATED="1459322437048" ID="ID_633639578" MODIFIED="1459439865698" TEXT="3. Resurrection">
+<icon BUILTIN="full-7"/>
+<node CREATED="1459322452628" ID="ID_1245924051" MODIFIED="1459439790236" TEXT="J. not separated from redeemed community">
+<icon BUILTIN="full-7"/>
+</node>
+<node CREATED="1459322482102" ID="ID_428668602" MODIFIED="1459439857311" TEXT="due to obedience">
+<icon BUILTIN="full-7"/>
+</node>
+<node CREATED="1459322499607" ID="ID_249662567" MODIFIED="1459439828844" TEXT="condemns the Jews">
+<icon BUILTIN="full-7"/>
 </node>
 </node>
 </node>
-<node CREATED="1459435157641" ID="ID_506335097" MODIFIED="1459435160735" TEXT="Good News?"/>
+<node CREATED="1459423822025" ID="ID_967883787" MODIFIED="1459512859346" TEXT="Work of Christ">
+<icon BUILTIN="full-1"/>
+<node CREATED="1459423960600" ID="ID_1282008008" MODIFIED="1459431466872" TEXT="Two">
+<icon BUILTIN="full-1"/>
+<node CREATED="1459423839173" ID="ID_578698656" MODIFIED="1459431466872" TEXT="ransom for many - 10:45">
+<icon BUILTIN="full-1"/>
+<node CREATED="1459423886901" ID="ID_1335595969" MODIFIED="1459431466871" TEXT="effects deliverance from sin and judgement">
+<icon BUILTIN="full-1"/>
 </node>
-<node CREATED="1459435119479" FOLDED="true" ID="ID_1340635927" MODIFIED="1459513343037" POSITION="left" TEXT="show k &amp; u of">
+</node>
+<node CREATED="1459423859685" ID="ID_620563432" MODIFIED="1459431466871" TEXT="blood of teh covenant 14:24">
+<icon BUILTIN="full-1"/>
+<node CREATED="1459423909995" ID="ID_37431224" MODIFIED="1459431466870" TEXT="cpvenant relationship |.| God and man">
+<icon BUILTIN="full-1"/>
+</node>
+</node>
+</node>
+<node CREATED="1459423979723" ID="ID_575487614" MODIFIED="1459431466870" TEXT="not worked out into full doctrine">
+<icon BUILTIN="full-1"/>
+</node>
+</node>
+<node CREATED="1459366195378" ID="ID_1160821313" MODIFIED="1459441982739" TEXT="Death">
+<icon BUILTIN="full-5"/>
+<node CREATED="1459365472580" ID="ID_448984643" MODIFIED="1459441987301" TEXT="depths of human despare  c.f. others p136">
+<icon BUILTIN="full-5"/>
+<node CREATED="1459365593632" ID="ID_1102067118" MODIFIED="1459431732378" TEXT="why have you forsaken me">
+<icon BUILTIN="full-5"/>
+</node>
+</node>
+</node>
+<node CREATED="1459417323063" ID="ID_454602566" MODIFIED="1459512951350" TEXT="Salvation">
+<icon BUILTIN="full-2"/>
+<node CREATED="1459417327383" ID="ID_1545412084" MODIFIED="1459431544957" TEXT="coms to bring Sal.">
+<icon BUILTIN="full-2"/>
+</node>
+<node CREATED="1459417342710" ID="ID_479749654" MODIFIED="1459431544957" TEXT="as prohpesied in OT">
+<icon BUILTIN="full-2"/>
+</node>
+<node CREATED="1459417354652" ID="ID_1387839741" MODIFIED="1459431544957" TEXT="triumph over sin &amp; satan">
+<icon BUILTIN="full-2"/>
+</node>
+<node CREATED="1459417376605" ID="ID_379540889" MODIFIED="1459431544941" TEXT="fulfilment with crucifixion &amp; resurrection">
+<icon BUILTIN="full-2"/>
+</node>
+</node>
+<node CREATED="1459366240256" ID="ID_796325811" MODIFIED="1459431732378" TEXT="Resurrection appearances">
+<icon BUILTIN="full-5"/>
+</node>
+<node CREATED="1459417323063" ID="ID_522173443" MODIFIED="1459512859127" TEXT="Salvation">
+<icon BUILTIN="full-2"/>
+<node CREATED="1459417327383" ID="ID_1813469429" MODIFIED="1459431544957" TEXT="coms to bring Sal.">
+<icon BUILTIN="full-2"/>
+</node>
+<node CREATED="1459417342710" ID="ID_30987092" MODIFIED="1459431544957" TEXT="as prohpesied in OT">
+<icon BUILTIN="full-2"/>
+</node>
+<node CREATED="1459417354652" ID="ID_828679847" MODIFIED="1459431544957" TEXT="triumph over sin &amp; satan">
+<icon BUILTIN="full-2"/>
+</node>
+<node CREATED="1459417376605" ID="ID_683393582" MODIFIED="1459431544941" TEXT="fulfilment with crucifixion &amp; resurrection">
+<icon BUILTIN="full-2"/>
+</node>
+</node>
+</node>
+<node CREATED="1459371135708" FOLDED="true" ID="ID_405679152" MODIFIED="1459537834095" TEXT="The plot">
+<icon BUILTIN="full-4"/>
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1459371228880" ID="ID_160258844" MODIFIED="1459537830566" TEXT="rec0gnised climax">
+<icon BUILTIN="full-4"/>
+<node CREATED="1459371236333" ID="ID_1467001673" MODIFIED="1459431683182" TEXT="D &amp; res">
+<icon BUILTIN="full-4"/>
+</node>
+<node CREATED="1459371250122" ID="ID_18395512" MODIFIED="1459431683182" TEXT="narrator leads implied reader">
+<icon BUILTIN="full-4"/>
+<node CREATED="1459371260089" ID="ID_863460762" MODIFIED="1459431683182" TEXT="hints; 2:19-20; 3:6">
+<icon BUILTIN="full-4"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1459435157641" ID="ID_506335097" MODIFIED="1459537579200" TEXT="Good News?">
+<node CREATED="1459537472082" ID="ID_1269946251" MODIFIED="1459537496718" TEXT="extends to gentiles in part IV (Telford)"/>
+<node CREATED="1459404282117" ID="ID_1259564131" MODIFIED="1459431646416" TEXT="no-one in the story seems able to respond to the call">
+<icon BUILTIN="full-3"/>
+<node CREATED="1459404309994" ID="ID_1981310484" MODIFIED="1459431646416" TEXT="displiles run away">
+<icon BUILTIN="full-3"/>
+</node>
+<node CREATED="1459404320357" ID="ID_621564328" MODIFIED="1459431646416" TEXT="women flee empty tomb">
+<icon BUILTIN="full-3"/>
+</node>
+</node>
+<node CREATED="1459537581806" ID="ID_1274766927" MODIFIED="1459537605914" TEXT="Disciples kept failing - we identofy"/>
+</node>
+</node>
+<node CREATED="1459435119479" ID="ID_1340635927" MODIFIED="1459520231681" POSITION="left" TEXT="show k &amp; u of">
 <node CREATED="1459435166965" ID="ID_985534113" MODIFIED="1459435203204" TEXT="gospel">
-<node CREATED="1459435003157" ID="ID_1335102267" MODIFIED="1459502103555" TEXT="context">
+<node CREATED="1459435003157" FOLDED="true" ID="ID_1335102267" MODIFIED="1459523700973" TEXT="context">
 <node CREATED="1459421675346" ID="ID_1970895880" MODIFIED="1459504609865" TEXT="authorship">
 <icon BUILTIN="full-1"/>
 <node CREATED="1459421679958" ID="ID_1604299472" MODIFIED="1459431466894" TEXT="assoiate of Peter">
@@ -3336,7 +3702,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1459435009694" FOLDED="true" ID="ID_1977047768" MODIFIED="1459513336428" TEXT="purpose">
+<node CREATED="1459435009694" ID="ID_1977047768" MODIFIED="1459526464836" TEXT="purpose">
 <node CREATED="1459320250761" ID="ID_506941999" MODIFIED="1459499491562" TEXT="Purpose">
 <icon BUILTIN="full-8"/>
 <node CREATED="1459320259214" ID="ID_332493317" MODIFIED="1459502182766" TEXT="? to a church">
@@ -3380,6 +3746,18 @@
 <node CREATED="1459320569180" ID="ID_1415317609" MODIFIED="1459431787630" TEXT="? reflects gentile christians in tension with Jewish inheritance">
 <icon BUILTIN="full-8"/>
 </node>
+</node>
+</node>
+<node CREATED="1459422009642" ID="ID_798618705" MODIFIED="1459431466889" TEXT="purpose">
+<icon BUILTIN="full-1"/>
+<node CREATED="1459422032067" ID="ID_886256421" MODIFIED="1459431466888" TEXT="needs of Rome">
+<icon BUILTIN="full-1"/>
+</node>
+<node CREATED="1459422044172" ID="ID_153765987" MODIFIED="1459431466888" TEXT="strengthen its faith in view of impending persecution">
+<icon BUILTIN="full-1"/>
+</node>
+<node CREATED="1459422069294" ID="ID_491719523" MODIFIED="1459431466887" TEXT="material for evangelists">
+<icon BUILTIN="full-1"/>
 </node>
 </node>
 </node>
