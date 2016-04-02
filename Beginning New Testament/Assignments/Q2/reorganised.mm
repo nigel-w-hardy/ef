@@ -2986,7 +2986,7 @@
 <icon BUILTIN="full-3"/>
 </node>
 </node>
-<node CREATED="1459523943257" ID="ID_1191528658" MODIFIED="1459541483884" TEXT="teach discipleship">
+<node CREATED="1459523943257" FOLDED="true" ID="ID_1191528658" MODIFIED="1459542466536" TEXT="teach discipleship">
 <node CREATED="1459417273655" ID="ID_1207557142" MODIFIED="1459431544957" TEXT="J teachs on K of God &amp; God will continute call a people to himself">
 <icon BUILTIN="full-2"/>
 </node>
@@ -3248,7 +3248,7 @@
 <node CREATED="1459405908564" ID="ID_394835646" MODIFIED="1459431646431" TEXT="hostility of authorities whio reject his authority">
 <icon BUILTIN="full-3"/>
 </node>
-<node CREATED="1459405927420" ID="ID_1958675217" MODIFIED="1459431646431" TEXT="incomprehension of discipls who have accepted it">
+<node CREATED="1459405927420" ID="ID_1958675217" MODIFIED="1459542093123" TEXT="incomprehension of disciples who have accepted it">
 <icon BUILTIN="full-3"/>
 </node>
 <node CREATED="1459406007831" ID="ID_1924595155" MODIFIED="1459431646431" TEXT="division not always clear">
@@ -3313,7 +3313,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1459523974306" FOLDED="true" ID="ID_1405543562" MODIFIED="1459541817803" TEXT="suffer and die">
+<node CREATED="1459523974306" ID="ID_1405543562" MODIFIED="1459542471373" TEXT="suffer and die">
 <node CREATED="1459424008783" ID="ID_1874704353" MODIFIED="1459531618387" TEXT="Synopics all mention 3 occassions when disciples were told of approaching passion">
 <icon BUILTIN="full-1"/>
 <node CREATED="1459424045202" ID="ID_1023135652" MODIFIED="1459431466869" TEXT="Mk especially notes varying attitudes - 8:31f; 9:31f; 10:32">
@@ -3444,7 +3444,7 @@
 </node>
 <node CREATED="1459437963123" ID="ID_1004974373" MODIFIED="1459438004827" TEXT="toJ whose death &amp; suffering is key to salvation "/>
 </node>
-<node CREATED="1459322187439" FOLDED="true" ID="ID_1221375313" MODIFIED="1459524182681" TEXT="Why did Jesus die?">
+<node CREATED="1459322187439" ID="ID_1221375313" MODIFIED="1459542928456" TEXT="Why did Jesus die?">
 <icon BUILTIN="full-7"/>
 <node CREATED="1459322196484" ID="ID_1251323039" MODIFIED="1459431769409" TEXT="1. Judas">
 <icon BUILTIN="full-7"/>
@@ -3521,21 +3521,6 @@
 </node>
 <node CREATED="1459366240256" ID="ID_796325811" MODIFIED="1459431732378" TEXT="Resurrection appearances">
 <icon BUILTIN="full-5"/>
-</node>
-<node CREATED="1459417323063" ID="ID_522173443" MODIFIED="1459512859127" TEXT="Salvation">
-<icon BUILTIN="full-2"/>
-<node CREATED="1459417327383" ID="ID_1813469429" MODIFIED="1459431544957" TEXT="coms to bring Sal.">
-<icon BUILTIN="full-2"/>
-</node>
-<node CREATED="1459417342710" ID="ID_30987092" MODIFIED="1459431544957" TEXT="as prohpesied in OT">
-<icon BUILTIN="full-2"/>
-</node>
-<node CREATED="1459417354652" ID="ID_828679847" MODIFIED="1459431544957" TEXT="triumph over sin &amp; satan">
-<icon BUILTIN="full-2"/>
-</node>
-<node CREATED="1459417376605" ID="ID_683393582" MODIFIED="1459431544941" TEXT="fulfilment with crucifixion &amp; resurrection">
-<icon BUILTIN="full-2"/>
-</node>
 </node>
 </node>
 <node CREATED="1459371135708" FOLDED="true" ID="ID_405679152" MODIFIED="1459537834095" TEXT="The plot">
